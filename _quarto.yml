@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mariana Freitas"
+  navbar:
+    left:
+      - icon: envelope
+        href: "mailto:marianacfreitas2004@gmail.com"
+        aria-label: "Email"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/mariana-freitas-680b712b6/"
+        aria-label: "LinkedIn"
+    right:
+      - text: "🌐"
+        menu:
+          - text: "Português"
+            href: "/"
+          - text: "English"
+            href: "/en/"
+      - href: "#sobre"
+        text: Sobre
+      - href: "#experiencias"
+        text: Experiências
+      - href: "#eventos"
+        text: Eventos e Cursos
+      - href: producoes.qmd
+        text: Produções
+
+language:
+  en:
+    title: "Mariana Freitas"
+    navbar:
+      right:
+        - text: "🌐"
+          menu:
+            - text: "Português"
+              href: "/"
+            - text: "English"
+              href: "/en/"
+        - href: "#about"
+          text: About
+        - href: "#experience"
+          text: Experience
+        - href: "#events"
+          text: Events and Courses
+        - href: productions.qmd
+          text: Productions
+
+format:
+  html:
+    theme: darkly
+    toc: true
+    css: styles.css
