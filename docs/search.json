@@ -341,5 +341,12 @@
     "title": "Mariana Freitas",
     "section": "Instructor at Data Science Workshop (2022)",
     "text": "Instructor at Data Science Workshop (2022)\nTaught the “Introduction to Shiny” course, covering the shiny and shinydashboard packages for creating interactive dashboards. The course ranged from basic Shiny app structure to building dynamic interfaces for health data visualization, with focus on obstetric data applications."
+  },
+  {
+    "objectID": "en/productions.html",
+    "href": "en/productions.html",
+    "title": "Mariana Freitas",
+    "section": "",
+    "text": "Tutorial: Concordance Analysis\n\nMaternal Health Monitoring Dashboard\n\n\nTutorial: Sampling Distribution\n\nOOBr 1000 Days Dashboard"
   }
 ]

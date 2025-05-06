@@ -1,0 +1,28 @@
+---
+title: " "
+format: html
+page-layout: full
+---
+::: {.columns}
+
+::: {.column width="50%" style="text-align: center;"}
+
+[![Tutorial: Concordance Analysis](images/concordancia.png){width=400px style="border: 2px solid white; border-radius: 8px;"}](https://observatorioobstetricobr.org/livro-e-tutoriais/analise-de-concordancia/)  
+**Tutorial: Concordance Analysis**
+
+[![Painel de Vigilância da Saúde Materna](images/vigilancia.png){width=400px style="border: 2px solid white; border-radius: 8px;"}](https://observatorioobstetrico.shinyapps.io/painel-vigilancia-saude-materna/)  
+**Maternal Health Monitoring Dashboard**
+
+:::
+
+::: {.column width="50%" style="text-align: center;"}
+
+[![Tutorial: Distribuição Amostral](images/distribuicao_amostral.png){width=400px style="border: 2px solid white; border-radius: 8px;"}](https://observatorioobstetricobr.org/livro-e-tutoriais/distribuicao-amostral/)  
+**Tutorial: Sampling Distribution**
+
+[![OOBr 1000 Days Dashboard](images/1000dias.png){width=400px style="border: 2px solid white; border-radius: 8px;"}](https://observatorioobstetrico.shinyapps.io/criancas_ate2anos/)  
+**OOBr 1000 Days Dashboard**
+
+:::
+
+:::

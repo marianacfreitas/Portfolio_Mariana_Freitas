@@ -41,7 +41,7 @@ language:
               href: "/en/"
         - href: "#about"
           text: About
-        - href: "#experience"
+        - href: "#experience"  # Corrected from "#experiences" to match content
           text: Experience
         - href: "#events"
           text: Events and Courses
