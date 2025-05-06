@@ -1,0 +1,82 @@
+---
+title: "Mariana Freitas"
+output: pdf_document
+fontsize: 11pt
+geometry: margin=1in
+mainfont: Arial
+sansfont: Arial
+linestretch: 1.2
+---
+
+# ABOUT
+
+Undergraduate student in Statistics at the Federal University of Espírito Santo (UFES) (2022 - present).
+
+Throughout my academic journey, I have developed an interest in statistical tools applied to health. I have worked with oncological data, maternal and child health, and public health indicators, using statistical and machine learning techniques. I have also been highly involved with R and Shiny for exploratory analysis and creating interactive dashboards. I have experience with survival models, machine learning adapted to censored data, and analysis of large databases, such as those from the Brazilian Unified Health System (SUS). Additionally, I have had the opportunity to participate in teaching projects, which has allowed me to develop didactic skills for explaining statistical concepts clearly and objectively.
+
+::: {style="display: flex; justify-content: space-between;"}
+<div>
+
+**Idiomas:** 
+- Portuguese 
+- English
+
+</div>
+
+<div>
+
+**Habilidades:** 
+- Data analysis 
+- Exploratory analysis
+- Survival Analysis
+- Support Vector Machine 
+- R Programming Language
+- Python Programming Language 
+- R Shiny 
+- Data visualization
+- Statistical modeling
+
+</div>
+:::
+
+# EXPERIENCES
+
+## Research Fellow at FAPES (2024 - present)
+
+Development of an interactive Shiny/R dashboard with a multidisciplinary team for analyzing maternal-child health indicators in Brazil, using public SUS data. The platform enables dynamic data visualization through interactive charts and tables. The project aimed to support decision-making by healthcare managers and promote transparency in public health information dissemination.
+
+## Fiotec Fellow (2023 - 2025)
+
+Development of an interactive Shiny/R dashboard with a multidisciplinary team for analyzing maternal-child health indicators in Brazil, using public SUS data. The platform enables dynamic data visualization through interactive charts and tables. The project aimed to support decision-making by healthcare managers and promote transparency in public health information dissemination.
+
+## Fellow at Brazilian Obstetric Observatory (OOBr) (2022 - 2023)
+
+AWorked as a fellow at OOBr, handling public data related to maternal health. My responsibilities included statistical analysis of this data, creating interactive dashboards, and information visualization using R. Additionally, I contributed to producing statistical tutorials, helping disseminate knowledge in the field.
+
+## Teaching Assistant at Federal University of Espírito Santo (2023 - 2024)
+
+AServed as a teaching assistant for Probability and Statistics courses for students across various programs at the Federal University of Espírito Santo, helping them grasp essential statistical concepts.
+
+------------------------------------------------------------------------
+
+# EVENTS AND COURSES
+
+## Instructor at RLadies Vitória (2024)
+
+Served as instructor and organizer for the "Basic R for Chemists" workshop at RLadies Vitória, a chapter of R-Ladies Global - an organization promoting gender diversity in the R community.
+
+## Poster Presentation at 66th RBras Annual Meeting (2022)
+
+Presented the work "Evaluation of vaccination impacts on COVID-19 data via segmented models" at the 66th RBras. The study used Poisson, quasi-Poisson, and segmented beta regression models to analyze vaccination effects on severe obstetric outcomes from COVID-19. Results highlighted the protective role of the first dose, with significant effects observed 10 to 30 days post-vaccination.
+
+## Instructor at Data Science Workshop (2022)
+
+Taught the "Introduction to Shiny" course, covering the *shiny* and *shinydashboard* packages for creating interactive dashboards. The course ranged from basic Shiny app structure to building dynamic interfaces for health data visualization, with focus on obstetric data applications.
+
+# CONTACT
+
+- E-mail: [marianacfreitas2004@gmail.com](marianacfreitas2004@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/mariana-freitas-680b712b6/)
+
+
+

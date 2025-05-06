@@ -1,0 +1,114 @@
+.profile-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 2rem;
+  border: 3px solid #2c3e50;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #555;
+  margin-top: -0.5rem;
+}
+
+/* Estilo para as experiências */
+h3 {
+  margin-top: 1.5rem;
+  color: #2c3e50;
+}
+
+/* Links de contato */
+.contact-links {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.contact-links li {
+  margin-bottom: 0.5rem;
+}
+
+.contact-links a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+.contact-links a:hover {
+  text-decoration: underline;
+}/* css styles */
+
+
+<style>
+.card {
+  background-color: #d9fbe6; /* verde menta claro */
+  color: black;
+  border-radius: 16px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  padding: 2rem;
+  margin-bottom: 2.5rem;
+  width: 100%;
+  max-width: 900px;
+}
+
+.card h2, .card h3 {
+  margin-top: 0;
+}
+</style>
+
+
+</style>
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem auto;
+  max-width: 1000px;
+}
+</style>
+
+body {
+  background-color: black;
+  color: white;
+}
+
+/* Altera a cor de fundo e a cor do texto da navbar */
+.navbar {
+  background-color: #d9fbe6 !important;
+}
+
+/* Altera a cor do texto nos links da navbar */
+.navbar .navbar-brand,
+.navbar .nav-link,
+.navbar-nav .nav-link {
+  color: black !important;
+}
+
+/* Altera a cor no hover */
+.navbar .nav-link:hover {
+  color: black !important;
+}
+
+a.btn-download {
+  background-color: #d9fbe6;
+  color: #black;
+  padding: 6px 12px;
+  border: 0px solid #black;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+a.btn-download:hover {
+  background-color: #d9fbe6;
+  color: #black;
+}
+
+
