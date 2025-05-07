@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -144,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- ESTILOS GERAIS -->
 <style>
 .card {
-  background-color: #d9fbe6; /* verde menta claro */
+  background-color: #9dd9f3; /* verde menta claro */
   color: black;
   border-radius: 16px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
@@ -178,6 +178,15 @@ ul.task-list li input[type="checkbox"] {
   border-radius: 8px;
 }
 
+/* Força o fundo mesmo em temas do Quarto */
+body, .quarto-body, .page-wrapper, .content {
+  background-color: #000a2a !important;
+}
+
+/* Se houver elementos internos cobrindo o body */
+.quarto-container, .main-container {
+  background-color: transparent !important;
+}
 
 </style>
 <p><a href="mariana_freitas_cv.pdf" class="btn-download" download="" style="color: black; text-align: center;"> Download CV </a></p>

@@ -3,6 +3,25 @@ title: " "
 format: html
 page-layout: full
 ---
+
+```{=html}
+<style>
+
+/* Força o fundo mesmo em temas do Quarto */
+body, .quarto-body, .page-wrapper, .content {
+  background-color: #000a2a !important;
+  color: white;
+}
+
+/* Se houver elementos internos cobrindo o body */
+.quarto-container, .main-container {
+  background-color: transparent !important;
+}
+
+
+</style>
+```
+
 ::: {.columns}
 
 ::: {.column width="50%" style="text-align: center;"}

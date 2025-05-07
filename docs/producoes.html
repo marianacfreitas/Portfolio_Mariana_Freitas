@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -143,6 +143,21 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<style>
+
+/* Força o fundo mesmo em temas do Quarto */
+body, .quarto-body, .page-wrapper, .content {
+  background-color: #000a2a !important;
+  color: white;
+}
+
+/* Se houver elementos internos cobrindo o body */
+.quarto-container, .main-container {
+  background-color: transparent !important;
+}
+
+
+</style>
 <div class="columns">
 <div class="column" style="text-align: center;">
 <p><a href="https://observatorioobstetricobr.org/livro-e-tutoriais/analise-de-concordancia/"><img src="images/concordancia.png" class="img-fluid" style="border: 2px solid white; border-radius: 8px;" width="400" alt="Tutorial: Análise de Concordância"></a><br>

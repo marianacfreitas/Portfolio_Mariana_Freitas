@@ -9,7 +9,7 @@ page-layout: full
 ```{=html}
 <style>
 .card {
-  background-color: #d9fbe6; /* verde menta claro */
+  background-color: #9dd9f3; /* verde menta claro */
   color: black;
   border-radius: 16px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
@@ -41,6 +41,16 @@ page-layout: full
   height: auto;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   border-radius: 8px;
+}
+
+/* Força o fundo mesmo em temas do Quarto */
+body, .quarto-body, .page-wrapper, .content {
+  background-color: #000a2a !important;
+}
+
+/* Se houver elementos internos cobrindo o body */
+.quarto-container, .main-container {
+  background-color: transparent !important;
 }
 
 
