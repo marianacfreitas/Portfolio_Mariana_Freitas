@@ -1,213 +1,10 @@
 [
   {
-    "objectID": "about-en.html",
-    "href": "about-en.html",
-    "title": "About",
-    "section": "",
-    "text": "Português English"
-  },
-  {
-    "objectID": "about-en.html#about-me",
-    "href": "about-en.html#about-me",
-    "title": "About",
-    "section": "About Me",
-    "text": "About Me\nI am an undergraduate Statistics student since 2022, with a primary focus on survival analysis and its applications in healthcare. My education combines solid theoretical foundations in statistical models with practical interest in developing and applying methods for censored data analysis, especially in clinical and epidemiological contexts."
-  },
-  {
-    "objectID": "about-en.html#languages",
-    "href": "about-en.html#languages",
-    "title": "About",
-    "section": "Languages",
-    "text": "Languages\n\nPortuguese (native)\nEnglish (fluent)"
-  },
-  {
-    "objectID": "about-en.html#contact",
-    "href": "about-en.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\n\nEmail: marianacfreitas2004@gmail.com\nLinkedIn: Mariana Freitas"
-  },
-  {
-    "objectID": "experiences.html",
-    "href": "experiences.html",
-    "title": "Mariana Freitas",
-    "section": "",
-    "text": "Desenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco em câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementei modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo."
-  },
-  {
-    "objectID": "experiences.html#bolsista-de-pesquisa",
-    "href": "experiences.html#bolsista-de-pesquisa",
-    "title": "Mariana Freitas",
-    "section": "Bolsista de Pesquisa",
-    "text": "Bolsista de Pesquisa\n\nFiotec (2023 - 2025)\nDesenvolvimento de um painel interativo em Shiny/R junto a uma equipe multidisciplinar para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados através de gráficos, mapas e tabelas interativas, facilitando a identificação de tendências e disparidades regionais. O projeto teve como objetivo apoiar gestores na tomada de decisão e promover transparência na divulgação de informações de saúde pública.\n\n\nObservatório Obstétrico Brasileiro (OOBr) (2022 - 2023)\nAtuei como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Minhas responsabilidades incluíam a análise estatística desses dados, a criação de dashboards interativos e a visualização de informações utilizando a linguagem R. Além disso, contribuía com a produção de tutoriais sobre temas estatísticos, auxiliando na disseminação de conhecimento e boas práticas na área. Essa experiência permitiu o desenvolvimento de habilidades em manipulação de dados, análise exploratória e comunicação de resultados de forma clara e eficiente."
-  },
-  {
-    "objectID": "experiences.html#iniciação-científica",
-    "href": "experiences.html#iniciação-científica",
-    "title": "Mariana Freitas",
-    "section": "",
-    "text": "Desenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco em câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementei modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo."
-  },
-  {
-    "objectID": "experiences.html#monitoria",
-    "href": "experiences.html#monitoria",
-    "title": "Mariana Freitas",
-    "section": "Monitoria",
-    "text": "Monitoria\n\nUniversidade Federal do Espírto Santo (2023 - 2024)\nAtuei como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos, auxiliando no entendimento de conceitos essenciais da estatística."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Sobre",
-    "section": "",
-    "text": "::: profile-header"
-  },
-  {
-    "objectID": "about.html#sobre-mim",
-    "href": "about.html#sobre-mim",
-    "title": "Sobre",
-    "section": "Sobre Mim",
-    "text": "Sobre Mim\nSou estudante de graduação em Estatística desde 2022, com foco principal em análise de sobrevivência e suas aplicações na área da saúde. Minha formação combina bases teóricas sólidas em modelos estatísticos com interesse prático no desenvolvimento e aplicação de métodos para análise de dados censurados, especialmente em contextos clínicos e epidemiológicos."
-  },
-  {
-    "objectID": "about.html#idiomas",
-    "href": "about.html#idiomas",
-    "title": "Sobre",
-    "section": "Idiomas",
-    "text": "Idiomas\n\nPortuguês (nativo)\nInglês (fluente)"
-  },
-  {
-    "objectID": "about.html#contato",
-    "href": "about.html#contato",
-    "title": "Sobre",
-    "section": "Contato",
-    "text": "Contato\n\nEmail: marianacfreitas2004@gmail.com\nLinkedIn: Mariana Freitas"
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Mariana Freitas",
-    "section": "",
-    "text": "Apresentei o trabalho “Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados” na 66ª RBras. No trabalho foram utilizados modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19. Os resultados destacaram o papel protetor da primeira dose, com efeitos significativos observados 10 a 30 dias após a vacinação."
-  },
-  {
-    "objectID": "events.html#apresentações-científicas",
-    "href": "events.html#apresentações-científicas",
-    "title": "Mariana Freitas",
-    "section": "",
-    "text": "Apresentei o trabalho “Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados” na 66ª RBras. No trabalho foram utilizados modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19. Os resultados destacaram o papel protetor da primeira dose, com efeitos significativos observados 10 a 30 dias após a vacinação."
-  },
-  {
-    "objectID": "events.html#ministração-de-cursos-e-workshops",
-    "href": "events.html#ministração-de-cursos-e-workshops",
-    "title": "Mariana Freitas",
-    "section": "Ministração de Cursos e Workshops",
-    "text": "Ministração de Cursos e Workshops\n\nRLadies Vitória (2024)\nParticipei como ministrante e organizadora do minicurso “R Básico para Químicos” pelo RLadies Vitória, capítulo da R-Ladies Global - organização que promove a diversidade de gênero na comunidade R.\n\n\nWorkshop de Ciência de Dados (2022)\nMinistrei o minicurso “Introdução ao Shiny: Desenvolvimento de Aplicativos Interativos em R”, no qual apresentei os pacotes shiny e shinydashboard para criação de dashboards interativos. O curso abordou desde a estrutura básica de um aplicativo Shiny até a construção de interfaces dinâmicas para visualização de dados em saúde, com foco em aplicações práticas para análise de dados obstétricos."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mariana Freitas",
     "section": "",
-    "text": "Baixar CV \n\n\nSOBRE\n\n\n\n\n\n\nEstudante de graduação de em Estatística pela Universidade Federal do Espírito Santo (UFES) (2022 - atual).\nAo longo da minha formação desenvolvi interesse por ferramentas estatísticas aplicadas à saúde. Já trabalhei com dados oncológicos, saúde materno-infantil e indicadores de saúde pública, utilizando técnicas de estatística e machine learning. Também me envolvi bastante nas ferramentas R e Shiny para análise exploratória e criação de dashboards interativos. Tenho experiência com modelos de sobrevivência, aprendizado de máquina adaptado a dados censurados e análise de grandes bases de dados, como as do SUS. Além disso, tive a oportunidade de participar de projetos de ensino, o que me permitiu desenvolver habilidades didáticas para explicar conceitos estatísticos de forma clara e objetiva.\n\n\n\n\n\nIdiomas\n Português\n Inglês\n\n\nFerramentas\n\n \n\n\n \n\n\n\n\nÁreas de Conhecimento\n\nAnálise de Sobrevivência\n\nSupport Vector Machine\n\nLinguagem R\n\nShiny R\n\nInferência clássica\n\nInferência Bayesiana\n\nAnálise exploratória de dados\n\nModelos de Regressão\n\n\n\n\n\n\n\n\n\nEXPERIÊNCIAS\n\n\n\nIniciação Científica pela FAPES (2024 - atual)\nDesenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco nos dados de câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementei modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo.\n\n\nBolsista pela Fiotec (2023 - 2025)\nDesenvolvimento de um painel interativo em Shiny/R junto a uma equipe multidisciplinar para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados através de gráficos e tabelas interativas. O projeto teve como objetivo apoiar gestores na tomada de decisão e promover transparência na divulgação de informações de saúde pública.\n\n\nBolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)\nAtuei como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Minhas responsabilidades incluíam a análise estatística desses dados, a criação de dashboards interativos e a visualização de informações utilizando a linguagem R. Além disso, contribuía com a produção de tutoriais sobre temas estatísticos, auxiliando na disseminação de conhecimento na área.\n\n\nMonitoria na Universidade Federal do Espírito Santo (2023 - 2024)\nAtuei como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos da Universidade Federal do Espírito Santo, auxiliando na compreensão de conceitos essenciais da estatística.\n\n\n\n\n\n\nEVENTOS E CURSOS\n\n\n\nMinistrante RLadies Vitória (2024)\nParticipei como ministrante e organizadora do minicurso “R Básico para Químicos” pelo RLadies Vitória, capítulo da R-Ladies Global - organização que promove a diversidade de gênero na comunidade R.\n\n\n\nPôster na 66ª Reunião Anual da RBras (2022)\nApresentei o trabalho “Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados” na 66ª RBras, no trabalho foram utilizados modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19. Os resultados destacaram o papel protetor da primeira dose, com efeitos significativos observados 10 a 30 dias após a vacinação.\n\n\n\nMinistrante Workshop de Ciência de Dados (2022)\nMinistrei o minicurso “Introdução ao Shiny”, no qual foram abordados os pacotes shiny e shinydashboard para criação de dashboards interativos. O curso abordou desde a estrutura básica de um aplicativo Shiny até a construção de interfaces dinâmicas para visualização de dados em saúde, com foco em aplicações em dados obstétricos."
-  },
-  {
-    "objectID": "about.html#sobre",
-    "href": "about.html#sobre",
-    "title": "Sobre",
-    "section": "Sobre",
-    "text": "Sobre\nSou estudante de graduação em Estatística desde 2022, com foco principal em análise de sobrevivência e suas aplicações na área da saúde. Minha formação combina bases teóricas sólidas em modelos estatísticos com interesse prático no desenvolvimento e aplicação de métodos para análise de dados censurados, especialmente em contextos clínicos e epidemiológicos."
-  },
-  {
-    "objectID": "index.html#sobre",
-    "href": "index.html#sobre",
-    "title": "Mariana Freitas",
-    "section": "",
-    "text": "Sou estudante de graduação em Estatística desde 2022, com foco principal em análise de sobrevivência e suas aplicações na área da saúde. Minha formação combina bases teóricas sólidas em modelos estatísticos com interesse prático no desenvolvimento e aplicação de métodos para análise de dados censurados, especialmente em contextos clínicos e epidemiológicos.\n\n\n\n\n\n\n Português\n Inglês\n\n\n\n\n \n\n\n \n\n\n\n\n\n\nAnálise de Sobrevivência\n\nSupport Vector Machine\n\nLinguagem R\n\nShiny R\n\nInferência clássica\n\nInferência Bayesiana\n\nAnálise exploratória de dados\n\nModelos de Regressão"
-  },
-  {
-    "objectID": "index.html#idiomas",
-    "href": "index.html#idiomas",
-    "title": "Título",
-    "section": "",
-    "text": "Português\n Inglês"
-  },
-  {
-    "objectID": "index.html#contato",
-    "href": "index.html#contato",
-    "title": "Sobre",
-    "section": "Contato",
-    "text": "Contato\n\nEmail: marianacfreitas2004@gmail.com\n\nLinkedIn: Mariana Freitas"
-  },
-  {
-    "objectID": "index.html#iniciação-científica",
-    "href": "index.html#iniciação-científica",
-    "title": "Título",
-    "section": "",
-    "text": "Desenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco em câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementei modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo."
-  },
-  {
-    "objectID": "index.html#bolsista-de-pesquisa",
-    "href": "index.html#bolsista-de-pesquisa",
-    "title": "Título",
-    "section": "",
-    "text": "Desenvolvimento de um painel interativo em Shiny/R junto a uma equipe multidisciplinar para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados através de gráficos, mapas e tabelas interativas, facilitando a identificação de tendências e disparidades regionais. O projeto teve como objetivo apoiar gestores na tomada de decisão e promover transparência na divulgação de informações de saúde pública.\n\n\n\nAtuei como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Minhas responsabilidades incluíam a análise estatística desses dados, a criação de dashboards interativos e a visualização de informações utilizando a linguagem R. Além disso, contribuía com a produção de tutoriais sobre temas estatísticos, auxiliando na disseminação de conhecimento e boas práticas na área. Essa experiência permitiu o desenvolvimento de habilidades em manipulação de dados, análise exploratória e comunicação de resultados de forma clara e eficiente."
-  },
-  {
-    "objectID": "index.html#monitoria",
-    "href": "index.html#monitoria",
-    "title": "Título",
-    "section": "",
-    "text": "Atuei como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos, auxiliando no entendimento de conceitos essenciais da estatística."
-  },
-  {
-    "objectID": "index.html#apresentações-científicas",
-    "href": "index.html#apresentações-científicas",
-    "title": "Título",
-    "section": "",
-    "text": "Apresentei o trabalho “Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados” na 66ª RBras. No trabalho foram utilizados modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19. Os resultados destacaram o papel protetor da primeira dose, com efeitos significativos observados 10 a 30 dias após a vacinação."
-  },
-  {
-    "objectID": "index.html#ministração-de-cursos-e-workshops",
-    "href": "index.html#ministração-de-cursos-e-workshops",
-    "title": "Título",
-    "section": "",
-    "text": "Participei como ministrante e organizadora do minicurso “R Básico para Químicos” pelo RLadies Vitória, capítulo da R-Ladies Global - organização que promove a diversidade de gênero na comunidade R.\n\n\n\nMinistrei o minicurso “Introdução ao Shiny: Desenvolvimento de Aplicativos Interativos em R”, no qual apresentei os pacotes shiny e shinydashboard para criação de dashboards interativos. O curso abordou desde a estrutura básica de um aplicativo Shiny até a construção de interfaces dinâmicas para visualização de dados em saúde, com foco em aplicações práticas para análise de dados obstétricos."
-  },
-  {
-    "objectID": "index.html#eventos-e-cursos",
-    "href": "index.html#eventos-e-cursos",
-    "title": "Mariana Freitas",
-    "section": "",
-    "text": "Fui ministrante e organizadora do minicurso “R Básico para Químicos”, promovendo inclusão e diversidade na comunidade R.\n\n\n\n\nApresentei o trabalho “Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados”, destacando o papel protetor da primeira dose com efeitos significativos de 10 a 30 dias após a vacinação.\n\n\n\n\nMinistrei o minicurso “Introdução ao Shiny: Desenvolvimento de Aplicativos Interativos em R”, com foco em dashboards para dados de saúde."
-  },
-  {
-    "objectID": "index.html#experiências",
-    "href": "index.html#experiências",
-    "title": "Mariana Freitas",
-    "section": "",
-    "text": "Desenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco em câncer colorretal da Fundação Oncocentro de São Paulo (FOSP). Implementei modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo.\n\n\n\nDesenvolvimento de um painel interativo em Shiny/R junto a uma equipe multidisciplinar para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS.\n\n\n\nAtuei como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Analisei dados, criei dashboards e escrevi tutoriais estatísticos.\n\n\n\nFui monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos, auxiliando na compreensão dos conceitos fundamentais."
-  },
-  {
-    "objectID": "index.html#conhecimento",
-    "href": "index.html#conhecimento",
-    "title": "Título",
-    "section": "",
-    "text": "Análise de Sobrevivência\nSupport Vector Machine\nLinguagem R\nShiny R\nInferência clássica\nInferência Bayesiana\nAnálise exploratória de dados\nModelos de Regressão"
-  },
-  {
-    "objectID": "index.html#áreas-de-conhecimento",
-    "href": "index.html#áreas-de-conhecimento",
-    "title": "Título",
-    "section": "",
-    "text": "Análise de Sobrevivência\n\nSupport Vector Machine\n\nLinguagem R\n\nShiny R\n\nInferência clássica\n\nInferência Bayesiana\n\nAnálise exploratória de dados\n\nModelos de Regressão"
-  },
-  {
-    "objectID": "index.html#projetos",
-    "href": "index.html#projetos",
-    "title": "Título",
-    "section": "",
-    "text": ":::"
+    "text": "Download CV \n\n\nABOUT\n\n\n\n\n\n\nUndergraduate student in Statistics at the Federal University of Espírito Santo (UFES) (2022 - present).\nThroughout my academic journey, I’ve developed a strong interest in statistical tools applied to healthcare. I’ve worked with oncological data, maternal-child health, and public health indicators, employing statistical techniques and machine learning. I’ve gained substantial experience with R and Shiny for exploratory analysis and creating interactive dashboards. My expertise includes survival models, machine learning adapted to censored data, and analysis of large datasets such as those from the Brazilian Unified Health System (SUS). Additionally, I’ve participated in teaching projects, which allowed me to develop didactic skills for explaining statistical concepts clearly and objectively.\n\n\n\n\n\nLanguages\n Portuguese\n English\n\n\nTools\n\n \n\n\n \n\n\n\n\nExpertise Areas\n\nSurvival Analysis\n\nSupport Vector Machine\n\nR Programming Language\n\nShiny R\n\nClassical Inference\n\nBayesian Inference\n\nExploratory Data Analysis\n\nRegression Models\n\n\n\n\n\n\n\n\n\nEXPERIENCES\n\n\n\nResearch Fellow at FAPES (2024 - present)\nDevelopment of research in survival analysis applied to oncological data, focusing on colorectal cancer data from the Oncoentro Foundation of São Paulo (FOSP). Implemented Support Vector Machine (SVM) models adapted for censored data, evaluating prognostic factors and predictive performance.\n\n\nFiotec Fellow (2023 - 2025)\nDevelopment of an interactive Shiny/R dashboard with a multidisciplinary team for analyzing maternal-child health indicators in Brazil, using public SUS data. The platform enables dynamic data visualization through interactive charts and tables. The project aimed to support decision-making by healthcare managers and promote transparency in public health information dissemination.\n\n\nFellow at Brazilian Obstetric Observatory (OOBr) (2022 - 2023)\nWorked as a fellow at OOBr, handling public data related to maternal health. My responsibilities included statistical analysis of this data, creating interactive dashboards, and information visualization using R. Additionally, I contributed to producing statistical tutorials, helping disseminate knowledge in the field.\n\n\nTeaching Assistant at Federal University of Espírito Santo (2023 - 2024)\nServed as a teaching assistant for Probability and Statistics courses for students across various programs at the Federal University of Espírito Santo, helping them grasp essential statistical concepts.\n\n\n\n\n\n\nEVENTS AND COURSES\n\n\n\nInstructor at RLadies Vitória (2024)\nServed as instructor and organizer for the “Basic R for Chemists” workshop at RLadies Vitória, a chapter of R-Ladies Global - an organization promoting gender diversity in the R community.\n\n\n\nPoster Presentation at 66th RBras Annual Meeting (2022)\nPresented the work “Evaluation of vaccination impacts on COVID-19 data via segmented models” at the 66th RBras. The study used Poisson, quasi-Poisson, and segmented beta regression models to analyze vaccination effects on severe obstetric outcomes from COVID-19. Results highlighted the protective role of the first dose, with significant effects observed 10 to 30 days post-vaccination.\n\n\n\nInstructor at Data Science Workshop (2022)\nTaught the “Introduction to Shiny” course, covering the shiny and shinydashboard packages for creating interactive dashboards. The course ranged from basic Shiny app structure to building dynamic interfaces for health data visualization, with focus on obstetric data applications."
   },
   {
     "objectID": "producoes.html",
@@ -217,67 +14,11 @@
     "text": "Tutorial: Análise de Concordância\n\nPainel de Vigilância da Saúde Materna\n\n\nTutorial: Distribuição Amostral\n\nPainel: OOBr SRAG 1000 Dias"
   },
   {
-    "objectID": "mariana_freitas_cv.html",
-    "href": "mariana_freitas_cv.html",
+    "objectID": "en/productions.html",
+    "href": "en/productions.html",
     "title": "Mariana Freitas",
     "section": "",
-    "text": "Estudante de graduação em Estatística pela Universidade Federal do Espírito Santo (UFES) (2022 - atual).\nAo longo da minha formação desenvolvi interesse por ferramentas estatísticas aplicadas à saúde. Já trabalhei com dados oncológicos, saúde materno-infantil e indicadores de saúde pública, utilizando técnicas de estatística e machine learning. Também me envolvi bastante nas ferramentas R e Shiny para análise exploratória e criação de dashboards interativos. Tenho experiência com modelos de sobrevivência, aprendizado de máquina adaptado a dados censurados e análise de grandes bases de dados, como as do SUS. Além disso, tive a oportunidade de participar de projetos de ensino, o que me permitiu desenvolver habilidades didáticas para explicar conceitos estatísticos de forma clara e objetiva.\n\n\nIdiomas: - Português - Inglês\n\n\nHabilidades: - Análise de dados - Análise exploratória - Análise de Sobrevivência - Support Vector Machine - Linguagem R - Linguagem Python - R Shiny - Visualização de dados - Modelagem estatística"
-  },
-  {
-    "objectID": "mariana_freitas_cv.html#iniciação-científica-pela-fapes-2024---atual",
-    "href": "mariana_freitas_cv.html#iniciação-científica-pela-fapes-2024---atual",
-    "title": "Mariana Freitas",
-    "section": "Iniciação Científica pela FAPES (2024 - atual)",
-    "text": "Iniciação Científica pela FAPES (2024 - atual)\nDesenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco nos dados de câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementação de modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo."
-  },
-  {
-    "objectID": "mariana_freitas_cv.html#bolsista-pela-fiotec-2023---2025",
-    "href": "mariana_freitas_cv.html#bolsista-pela-fiotec-2023---2025",
-    "title": "Mariana Freitas",
-    "section": "Bolsista pela Fiotec (2023 - 2025)",
-    "text": "Bolsista pela Fiotec (2023 - 2025)\nDesenvolvimento de um painel interativo em Shiny/R, com uma equipe multidisciplinar, para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados por meio de gráficos e tabelas interativas, apoiando gestores na tomada de decisão e promovendo a transparência na divulgação de informações de saúde pública."
-  },
-  {
-    "objectID": "mariana_freitas_cv.html#bolsista-pelo-observatório-obstétrico-brasileiro-oobr-2022---2023",
-    "href": "mariana_freitas_cv.html#bolsista-pelo-observatório-obstétrico-brasileiro-oobr-2022---2023",
-    "title": "Mariana Freitas",
-    "section": "Bolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)",
-    "text": "Bolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)\nAtuação como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Análise estatística dos dados, criação de dashboards interativos e visualização das informações utilizando a linguagem R. Também contribuí com a produção de tutoriais sobre temas estatísticos, disseminando conhecimento na área."
-  },
-  {
-    "objectID": "mariana_freitas_cv.html#monitoria-na-universidade-federal-do-espírito-santo-2023---2024",
-    "href": "mariana_freitas_cv.html#monitoria-na-universidade-federal-do-espírito-santo-2023---2024",
-    "title": "Mariana Freitas",
-    "section": "Monitoria na Universidade Federal do Espírito Santo (2023 - 2024)",
-    "text": "Monitoria na Universidade Federal do Espírito Santo (2023 - 2024)\nAtuação como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos da Universidade Federal do Espírito Santo, auxiliando na compreensão de conceitos essenciais da estatística."
-  },
-  {
-    "objectID": "mariana_freitas_cv.html#ministrante-rladies-vitória-2024",
-    "href": "mariana_freitas_cv.html#ministrante-rladies-vitória-2024",
-    "title": "Mariana Freitas",
-    "section": "Ministrante RLadies Vitória (2024)",
-    "text": "Ministrante RLadies Vitória (2024)\nMinistrante e organizadora do minicurso “R Básico para Químicos” pelo RLadies Vitória, capítulo da R-Ladies Global, que promove a diversidade de gênero na comunidade R."
-  },
-  {
-    "objectID": "mariana_freitas_cv.html#pôster-na-66ª-reunião-anual-da-rbras-2022",
-    "href": "mariana_freitas_cv.html#pôster-na-66ª-reunião-anual-da-rbras-2022",
-    "title": "Mariana Freitas",
-    "section": "Pôster na 66ª Reunião Anual da RBras (2022)",
-    "text": "Pôster na 66ª Reunião Anual da RBras (2022)\nApresentação do trabalho “Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados” na 66ª RBras, utilizando modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19."
-  },
-  {
-    "objectID": "mariana_freitas_cv.html#ministrante-workshop-de-ciência-de-dados-2022",
-    "href": "mariana_freitas_cv.html#ministrante-workshop-de-ciência-de-dados-2022",
-    "title": "Mariana Freitas",
-    "section": "Ministrante Workshop de Ciência de Dados (2022)",
-    "text": "Ministrante Workshop de Ciência de Dados (2022)\nMinistrante do minicurso “Introdução ao Shiny”, abordando a criação de dashboards interativos utilizando os pacotes shiny e shinydashboard para visualização de dados em saúde, com foco em dados obstétricos."
-  },
-  {
-    "objectID": "pt/index.html",
-    "href": "pt/index.html",
-    "title": "Mariana Freitas",
-    "section": "",
-    "text": "Baixar CV \n\n\nSOBRE\n\n\n\n\n\n\nEstudante de graduação de em Estatística pela Universidade Federal do Espírito Santo (UFES) (2022 - atual).\nAo longo da minha formação desenvolvi interesse por ferramentas estatísticas aplicadas à saúde. Já trabalhei com dados oncológicos, saúde materno-infantil e indicadores de saúde pública, utilizando técnicas de estatística e machine learning. Também me envolvi bastante nas ferramentas R e Shiny para análise exploratória e criação de dashboards interativos. Tenho experiência com modelos de sobrevivência, aprendizado de máquina adaptado a dados censurados e análise de grandes bases de dados, como as do SUS. Além disso, tive a oportunidade de participar de projetos de ensino, o que me permitiu desenvolver habilidades didáticas para explicar conceitos estatísticos de forma clara e objetiva.\n\n\n\n\n\nIdiomas\n Português\n Inglês\n\n\nFerramentas\n\n \n\n\n \n\n\n\n\nÁreas de Conhecimento\n\nAnálise de Sobrevivência\n\nSupport Vector Machine\n\nLinguagem R\n\nShiny R\n\nInferência clássica\n\nInferência Bayesiana\n\nAnálise exploratória de dados\n\nModelos de Regressão\n\n\n\n\n\n\n\n\n\nEXPERIÊNCIAS\n\n\n\nIniciação Científica pela FAPES (2024 - atual)\nDesenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco nos dados de câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementei modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo.\n\n\nBolsista pela Fiotec (2023 - 2025)\nDesenvolvimento de um painel interativo em Shiny/R junto a uma equipe multidisciplinar para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados através de gráficos e tabelas interativas. O projeto teve como objetivo apoiar gestores na tomada de decisão e promover transparência na divulgação de informações de saúde pública.\n\n\nBolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)\nAtuei como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Minhas responsabilidades incluíam a análise estatística desses dados, a criação de dashboards interativos e a visualização de informações utilizando a linguagem R. Além disso, contribuía com a produção de tutoriais sobre temas estatísticos, auxiliando na disseminação de conhecimento na área.\n\n\nMonitoria na Universidade Federal do Espírito Santo (2023 - 2024)\nAtuei como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos da Universidade Federal do Espírito Santo, auxiliando na compreensão de conceitos essenciais da estatística.\n\n\n\n\n\n\nEVENTOS E CURSOS\n\n\n\nMinistrante RLadies Vitória (2024)\nParticipei como ministrante e organizadora do minicurso “R Básico para Químicos” pelo RLadies Vitória, capítulo da R-Ladies Global - organização que promove a diversidade de gênero na comunidade R.\n\n\n\nPôster na 66ª Reunião Anual da RBras (2022)\nApresentei o trabalho “Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados” na 66ª RBras, no trabalho foram utilizados modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19. Os resultados destacaram o papel protetor da primeira dose, com efeitos significativos observados 10 a 30 dias após a vacinação.\n\n\n\nMinistrante Workshop de Ciência de Dados (2022)\nMinistrei o minicurso “Introdução ao Shiny”, no qual foram abordados os pacotes shiny e shinydashboard para criação de dashboards interativos. O curso abordou desde a estrutura básica de um aplicativo Shiny até a construção de interfaces dinâmicas para visualização de dados em saúde, com foco em aplicações em dados obstétricos."
+    "text": "Tutorial: Concordance Analysis\n\nMaternal Health Monitoring Dashboard\n\n\nTutorial: Sampling Distribution\n\nOOBr 1000 Days Dashboard"
   },
   {
     "objectID": "en/index.html",
@@ -343,10 +84,388 @@
     "text": "Instructor at Data Science Workshop (2022)\nTaught the “Introduction to Shiny” course, covering the shiny and shinydashboard packages for creating interactive dashboards. The course ranged from basic Shiny app structure to building dynamic interfaces for health data visualization, with focus on obstetric data applications."
   },
   {
-    "objectID": "en/productions.html",
-    "href": "en/productions.html",
+    "objectID": "mariana_freitas_cv.html",
+    "href": "mariana_freitas_cv.html",
+    "title": "Mariana Freitas",
+    "section": "",
+    "text": "Mariana Freitas\nUndergraduate Student in Statistics – UFES (2022 – Present)\nmarianacfreitas2004@gmail.com | LinkedIn"
+  },
+  {
+    "objectID": "mariana_freitas_cv.html#iniciação-científica-pela-fapes-2024---atual",
+    "href": "mariana_freitas_cv.html#iniciação-científica-pela-fapes-2024---atual",
+    "title": "Mariana Freitas",
+    "section": "Iniciação Científica pela FAPES (2024 - atual)",
+    "text": "Iniciação Científica pela FAPES (2024 - atual)\nDesenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco nos dados de câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementação de modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo."
+  },
+  {
+    "objectID": "mariana_freitas_cv.html#bolsista-pela-fiotec-2023---2025",
+    "href": "mariana_freitas_cv.html#bolsista-pela-fiotec-2023---2025",
+    "title": "Mariana Freitas",
+    "section": "Bolsista pela Fiotec (2023 - 2025)",
+    "text": "Bolsista pela Fiotec (2023 - 2025)\nDesenvolvimento de um painel interativo em Shiny/R, com uma equipe multidisciplinar, para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados por meio de gráficos e tabelas interativas, apoiando gestores na tomada de decisão e promovendo a transparência na divulgação de informações de saúde pública."
+  },
+  {
+    "objectID": "mariana_freitas_cv.html#bolsista-pelo-observatório-obstétrico-brasileiro-oobr-2022---2023",
+    "href": "mariana_freitas_cv.html#bolsista-pelo-observatório-obstétrico-brasileiro-oobr-2022---2023",
+    "title": "Mariana Freitas",
+    "section": "Bolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)",
+    "text": "Bolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)\nAtuação como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Análise estatística dos dados, criação de dashboards interativos e visualização das informações utilizando a linguagem R. Também contribuí com a produção de tutoriais sobre temas estatísticos, disseminando conhecimento na área."
+  },
+  {
+    "objectID": "mariana_freitas_cv.html#monitoria-na-universidade-federal-do-espírito-santo-2023---2024",
+    "href": "mariana_freitas_cv.html#monitoria-na-universidade-federal-do-espírito-santo-2023---2024",
+    "title": "Mariana Freitas",
+    "section": "Monitoria na Universidade Federal do Espírito Santo (2023 - 2024)",
+    "text": "Monitoria na Universidade Federal do Espírito Santo (2023 - 2024)\nAtuação como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos da Universidade Federal do Espírito Santo, auxiliando na compreensão de conceitos essenciais da estatística."
+  },
+  {
+    "objectID": "mariana_freitas_cv.html#ministrante-rladies-vitória-2024",
+    "href": "mariana_freitas_cv.html#ministrante-rladies-vitória-2024",
+    "title": "Mariana Freitas",
+    "section": "Ministrante RLadies Vitória (2024)",
+    "text": "Ministrante RLadies Vitória (2024)\nMinistrante e organizadora do minicurso “R Básico para Químicos” pelo RLadies Vitória, capítulo da R-Ladies Global, que promove a diversidade de gênero na comunidade R."
+  },
+  {
+    "objectID": "mariana_freitas_cv.html#pôster-na-66ª-reunião-anual-da-rbras-2022",
+    "href": "mariana_freitas_cv.html#pôster-na-66ª-reunião-anual-da-rbras-2022",
+    "title": "Mariana Freitas",
+    "section": "Pôster na 66ª Reunião Anual da RBras (2022)",
+    "text": "Pôster na 66ª Reunião Anual da RBras (2022)\nApresentação do trabalho “Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados” na 66ª RBras, utilizando modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19."
+  },
+  {
+    "objectID": "mariana_freitas_cv.html#ministrante-workshop-de-ciência-de-dados-2022",
+    "href": "mariana_freitas_cv.html#ministrante-workshop-de-ciência-de-dados-2022",
+    "title": "Mariana Freitas",
+    "section": "Ministrante Workshop de Ciência de Dados (2022)",
+    "text": "Ministrante Workshop de Ciência de Dados (2022)\nMinistrante do minicurso “Introdução ao Shiny”, abordando a criação de dashboards interativos utilizando os pacotes shiny e shinydashboard para visualização de dados em saúde, com foco em dados obstétricos."
+  },
+  {
+    "objectID": "index.pt.html",
+    "href": "index.pt.html",
+    "title": "Mariana Freitas",
+    "section": "",
+    "text": "Baixar CV \n\n\nSOBRE\n\n\n\n\n\n\nEstudante de graduação de em Estatística pela Universidade Federal do Espírito Santo (UFES) (2022 - atual).\nAo longo da minha formação desenvolvi interesse por ferramentas estatísticas aplicadas à saúde. Já trabalhei com dados oncológicos, saúde materno-infantil e indicadores de saúde pública, utilizando técnicas de estatística e machine learning. Também me envolvi bastante nas ferramentas R e Shiny para análise exploratória e criação de dashboards interativos. Tenho experiência com modelos de sobrevivência, aprendizado de máquina adaptado a dados censurados e análise de grandes bases de dados, como as do SUS. Além disso, tive a oportunidade de participar de projetos de ensino, o que me permitiu desenvolver habilidades didáticas para explicar conceitos estatísticos de forma clara e objetiva.\n\n\n\n\n\nIdiomas\n Português\n Inglês\n\n\nFerramentas\n\n \n\n\n \n\n\n\n\nÁreas de Conhecimento\n\nAnálise de Sobrevivência\n\nSupport Vector Machine\n\nLinguagem R\n\nShiny R\n\nInferência clássica\n\nInferência Bayesiana\n\nAnálise exploratória de dados\n\nModelos de Regressão\n\n\n\n\n\n\n\n\n\nEXPERIÊNCIAS\n\n\n\nIniciação Científica pela FAPES (2024 - atual)\nDesenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco nos dados de câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementei modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo.\n\n\nBolsista pela Fiotec (2023 - 2025)\nDesenvolvimento de um painel interativo em Shiny/R junto a uma equipe multidisciplinar para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados através de gráficos e tabelas interativas. O projeto teve como objetivo apoiar gestores na tomada de decisão e promover transparência na divulgação de informações de saúde pública.\n\n\nBolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)\nAtuei como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Minhas responsabilidades incluíam a análise estatística desses dados, a criação de dashboards interativos e a visualização de informações utilizando a linguagem R. Além disso, contribuía com a produção de tutoriais sobre temas estatísticos, auxiliando na disseminação de conhecimento na área.\n\n\nMonitoria na Universidade Federal do Espírito Santo (2023 - 2024)\nAtuei como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos da Universidade Federal do Espírito Santo, auxiliando na compreensão de conceitos essenciais da estatística.\n\n\n\n\n\n\nEVENTOS E CURSOS\n\n\n\nMinistrante RLadies Vitória (2024)\nParticipei como ministrante e organizadora do minicurso “R Básico para Químicos” pelo RLadies Vitória, capítulo da R-Ladies Global - organização que promove a diversidade de gênero na comunidade R.\n\n\n\nPôster na 66ª Reunião Anual da RBras (2022)\nApresentei o trabalho “Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados” na 66ª RBras, no trabalho foram utilizados modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19. Os resultados destacaram o papel protetor da primeira dose, com efeitos significativos observados 10 a 30 dias após a vacinação.\n\n\n\nMinistrante Workshop de Ciência de Dados (2022)\nMinistrei o minicurso “Introdução ao Shiny”, no qual foram abordados os pacotes shiny e shinydashboard para criação de dashboards interativos. O curso abordou desde a estrutura básica de um aplicativo Shiny até a construção de interfaces dinâmicas para visualização de dados em saúde, com foco em aplicações em dados obstétricos."
+  },
+  {
+    "objectID": "productions.html",
+    "href": "productions.html",
     "title": "Mariana Freitas",
     "section": "",
     "text": "Tutorial: Concordance Analysis\n\nMaternal Health Monitoring Dashboard\n\n\nTutorial: Sampling Distribution\n\nOOBr 1000 Days Dashboard"
+  },
+  {
+    "objectID": "mariana_freitas_cv.pt.html",
+    "href": "mariana_freitas_cv.pt.html",
+    "title": "Mariana Freitas",
+    "section": "",
+    "text": "Estudante de graduação em Estatística pela Universidade Federal do Espírito Santo (UFES) (2022 - atual).\nAo longo da minha formação desenvolvi interesse por ferramentas estatísticas aplicadas à saúde. Já trabalhei com dados oncológicos, saúde materno-infantil e indicadores de saúde pública, utilizando técnicas de estatística e machine learning. Também me envolvi bastante nas ferramentas R e Shiny para análise exploratória e criação de dashboards interativos. Tenho experiência com modelos de sobrevivência, aprendizado de máquina adaptado a dados censurados e análise de grandes bases de dados, como as do SUS. Além disso, tive a oportunidade de participar de projetos de ensino, o que me permitiu desenvolver habilidades didáticas para explicar conceitos estatísticos de forma clara e objetiva.\n\n\nIdiomas: - Português - Inglês\n\n\nHabilidades: - Análise de dados - Análise exploratória - Análise de Sobrevivência - Support Vector Machine - Linguagem R - Linguagem Python - R Shiny - Visualização de dados - Modelagem estatística"
+  },
+  {
+    "objectID": "mariana_freitas_cv.pt.html#iniciação-científica-pela-fapes-2024---atual",
+    "href": "mariana_freitas_cv.pt.html#iniciação-científica-pela-fapes-2024---atual",
+    "title": "Mariana Freitas",
+    "section": "Iniciação Científica pela FAPES (2024 - atual)",
+    "text": "Iniciação Científica pela FAPES (2024 - atual)\nDesenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco nos dados de câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementação de modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo."
+  },
+  {
+    "objectID": "mariana_freitas_cv.pt.html#bolsista-pela-fiotec-2023---2025",
+    "href": "mariana_freitas_cv.pt.html#bolsista-pela-fiotec-2023---2025",
+    "title": "Mariana Freitas",
+    "section": "Bolsista pela Fiotec (2023 - 2025)",
+    "text": "Bolsista pela Fiotec (2023 - 2025)\nDesenvolvimento de um painel interativo em Shiny/R, com uma equipe multidisciplinar, para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados por meio de gráficos e tabelas interativas, apoiando gestores na tomada de decisão e promovendo a transparência na divulgação de informações de saúde pública."
+  },
+  {
+    "objectID": "mariana_freitas_cv.pt.html#bolsista-pelo-observatório-obstétrico-brasileiro-oobr-2022---2023",
+    "href": "mariana_freitas_cv.pt.html#bolsista-pelo-observatório-obstétrico-brasileiro-oobr-2022---2023",
+    "title": "Mariana Freitas",
+    "section": "Bolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)",
+    "text": "Bolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)\nAtuação como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Análise estatística dos dados, criação de dashboards interativos e visualização das informações utilizando a linguagem R. Também contribuí com a produção de tutoriais sobre temas estatísticos, disseminando conhecimento na área."
+  },
+  {
+    "objectID": "mariana_freitas_cv.pt.html#monitoria-na-universidade-federal-do-espírito-santo-2023---2024",
+    "href": "mariana_freitas_cv.pt.html#monitoria-na-universidade-federal-do-espírito-santo-2023---2024",
+    "title": "Mariana Freitas",
+    "section": "Monitoria na Universidade Federal do Espírito Santo (2023 - 2024)",
+    "text": "Monitoria na Universidade Federal do Espírito Santo (2023 - 2024)\nAtuação como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos da Universidade Federal do Espírito Santo, auxiliando na compreensão de conceitos essenciais da estatística."
+  },
+  {
+    "objectID": "mariana_freitas_cv.pt.html#ministrante-rladies-vitória-2024",
+    "href": "mariana_freitas_cv.pt.html#ministrante-rladies-vitória-2024",
+    "title": "Mariana Freitas",
+    "section": "Ministrante RLadies Vitória (2024)",
+    "text": "Ministrante RLadies Vitória (2024)\nMinistrante e organizadora do minicurso “R Básico para Químicos” pelo RLadies Vitória, capítulo da R-Ladies Global, que promove a diversidade de gênero na comunidade R."
+  },
+  {
+    "objectID": "mariana_freitas_cv.pt.html#pôster-na-66ª-reunião-anual-da-rbras-2022",
+    "href": "mariana_freitas_cv.pt.html#pôster-na-66ª-reunião-anual-da-rbras-2022",
+    "title": "Mariana Freitas",
+    "section": "Pôster na 66ª Reunião Anual da RBras (2022)",
+    "text": "Pôster na 66ª Reunião Anual da RBras (2022)\nApresentação do trabalho “Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados” na 66ª RBras, utilizando modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19."
+  },
+  {
+    "objectID": "mariana_freitas_cv.pt.html#ministrante-workshop-de-ciência-de-dados-2022",
+    "href": "mariana_freitas_cv.pt.html#ministrante-workshop-de-ciência-de-dados-2022",
+    "title": "Mariana Freitas",
+    "section": "Ministrante Workshop de Ciência de Dados (2022)",
+    "text": "Ministrante Workshop de Ciência de Dados (2022)\nMinistrante do minicurso “Introdução ao Shiny”, abordando a criação de dashboards interativos utilizando os pacotes shiny e shinydashboard para visualização de dados em saúde, com foco em dados obstétricos."
+  },
+  {
+    "objectID": "productions.pt.html",
+    "href": "productions.pt.html",
+    "title": "Mariana Freitas",
+    "section": "",
+    "text": "Tutorial: Análise de Concordância\n\nPainel de Vigilância da Saúde Materna\n\n\nTutorial: Distribuição Amostral\n\nPainel: OOBr SRAG 1000 Dias"
+  },
+  {
+    "objectID": "pt/index.pt.html",
+    "href": "pt/index.pt.html",
+    "title": "Mariana Freitas",
+    "section": "",
+    "text": "Baixar CV \n\n\nSOBRE\n\n\n\n\n\n\nEstudante de graduação de em Estatística pela Universidade Federal do Espírito Santo (UFES) (2022 - atual).\nAo longo da minha formação desenvolvi interesse por ferramentas estatísticas aplicadas à saúde. Já trabalhei com dados oncológicos, saúde materno-infantil e indicadores de saúde pública, utilizando técnicas de estatística e machine learning. Também me envolvi bastante nas ferramentas R e Shiny para análise exploratória e criação de dashboards interativos. Tenho experiência com modelos de sobrevivência, aprendizado de máquina adaptado a dados censurados e análise de grandes bases de dados, como as do SUS. Além disso, tive a oportunidade de participar de projetos de ensino, o que me permitiu desenvolver habilidades didáticas para explicar conceitos estatísticos de forma clara e objetiva.\n\n\n\n\n\nIdiomas\n Português\n Inglês\n\n\nFerramentas\n\n \n\n\n \n\n\n\n\nÁreas de Conhecimento\n\nAnálise de Sobrevivência\n\nSupport Vector Machine\n\nLinguagem R\n\nShiny R\n\nInferência clássica\n\nInferência Bayesiana\n\nAnálise exploratória de dados\n\nModelos de Regressão\n\n\n\n\n\n\n\n\n\nEXPERIÊNCIAS\n\n\n\nIniciação Científica pela FAPES (2024 - atual)\nDesenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco nos dados de câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementei modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo.\n\n\nBolsista pela Fiotec (2023 - 2025)\nDesenvolvimento de um painel interativo em Shiny/R junto a uma equipe multidisciplinar para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados através de gráficos e tabelas interativas. O projeto teve como objetivo apoiar gestores na tomada de decisão e promover transparência na divulgação de informações de saúde pública.\n\n\nBolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)\nAtuei como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Minhas responsabilidades incluíam a análise estatística desses dados, a criação de dashboards interativos e a visualização de informações utilizando a linguagem R. Além disso, contribuía com a produção de tutoriais sobre temas estatísticos, auxiliando na disseminação de conhecimento na área.\n\n\nMonitoria na Universidade Federal do Espírito Santo (2023 - 2024)\nAtuei como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos da Universidade Federal do Espírito Santo, auxiliando na compreensão de conceitos essenciais da estatística.\n\n\n\n\n\n\nEVENTOS E CURSOS\n\n\n\nMinistrante RLadies Vitória (2024)\nParticipei como ministrante e organizadora do minicurso “R Básico para Químicos” pelo RLadies Vitória, capítulo da R-Ladies Global - organização que promove a diversidade de gênero na comunidade R.\n\n\n\nPôster na 66ª Reunião Anual da RBras (2022)\nApresentei o trabalho “Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados” na 66ª RBras, no trabalho foram utilizados modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19. Os resultados destacaram o papel protetor da primeira dose, com efeitos significativos observados 10 a 30 dias após a vacinação.\n\n\n\nMinistrante Workshop de Ciência de Dados (2022)\nMinistrei o minicurso “Introdução ao Shiny”, no qual foram abordados os pacotes shiny e shinydashboard para criação de dashboards interativos. O curso abordou desde a estrutura básica de um aplicativo Shiny até a construção de interfaces dinâmicas para visualização de dados em saúde, com foco em aplicações em dados obstétricos."
+  },
+  {
+    "objectID": "pt/productions.pt.html",
+    "href": "pt/productions.pt.html",
+    "title": "Mariana Freitas",
+    "section": "",
+    "text": "Tutorial: Análise de Concordância\n\nPainel de Vigilância da Saúde Materna\n\n\nTutorial: Distribuição Amostral\n\nPainel: OOBr SRAG 1000 Dias"
+  },
+  {
+    "objectID": "pt/images/mariana_freitas_cv.pt.html",
+    "href": "pt/images/mariana_freitas_cv.pt.html",
+    "title": "Mariana Freitas",
+    "section": "",
+    "text": "Estudante de graduação em Estatística pela Universidade Federal do Espírito Santo (UFES) (2022 - atual).\nAo longo da minha formação desenvolvi interesse por ferramentas estatísticas aplicadas à saúde. Já trabalhei com dados oncológicos, saúde materno-infantil e indicadores de saúde pública, utilizando técnicas de estatística e machine learning. Também me envolvi bastante nas ferramentas R e Shiny para análise exploratória e criação de dashboards interativos. Tenho experiência com modelos de sobrevivência, aprendizado de máquina adaptado a dados censurados e análise de grandes bases de dados, como as do SUS. Além disso, tive a oportunidade de participar de projetos de ensino, o que me permitiu desenvolver habilidades didáticas para explicar conceitos estatísticos de forma clara e objetiva.\n\n\nIdiomas: - Português - Inglês\n\n\nHabilidades: - Análise de dados - Análise exploratória - Análise de Sobrevivência - Support Vector Machine - Linguagem R - Linguagem Python - R Shiny - Visualização de dados - Modelagem estatística"
+  },
+  {
+    "objectID": "pt/images/mariana_freitas_cv.pt.html#iniciação-científica-pela-fapes-2024---atual",
+    "href": "pt/images/mariana_freitas_cv.pt.html#iniciação-científica-pela-fapes-2024---atual",
+    "title": "Mariana Freitas",
+    "section": "Iniciação Científica pela FAPES (2024 - atual)",
+    "text": "Iniciação Científica pela FAPES (2024 - atual)\nDesenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco nos dados de câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementação de modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo."
+  },
+  {
+    "objectID": "pt/images/mariana_freitas_cv.pt.html#bolsista-pela-fiotec-2023---2025",
+    "href": "pt/images/mariana_freitas_cv.pt.html#bolsista-pela-fiotec-2023---2025",
+    "title": "Mariana Freitas",
+    "section": "Bolsista pela Fiotec (2023 - 2025)",
+    "text": "Bolsista pela Fiotec (2023 - 2025)\nDesenvolvimento de um painel interativo em Shiny/R, com uma equipe multidisciplinar, para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados por meio de gráficos e tabelas interativas, apoiando gestores na tomada de decisão e promovendo a transparência na divulgação de informações de saúde pública."
+  },
+  {
+    "objectID": "pt/images/mariana_freitas_cv.pt.html#bolsista-pelo-observatório-obstétrico-brasileiro-oobr-2022---2023",
+    "href": "pt/images/mariana_freitas_cv.pt.html#bolsista-pelo-observatório-obstétrico-brasileiro-oobr-2022---2023",
+    "title": "Mariana Freitas",
+    "section": "Bolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)",
+    "text": "Bolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)\nAtuação como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Análise estatística dos dados, criação de dashboards interativos e visualização das informações utilizando a linguagem R. Também contribuí com a produção de tutoriais sobre temas estatísticos, disseminando conhecimento na área."
+  },
+  {
+    "objectID": "pt/images/mariana_freitas_cv.pt.html#monitoria-na-universidade-federal-do-espírito-santo-2023---2024",
+    "href": "pt/images/mariana_freitas_cv.pt.html#monitoria-na-universidade-federal-do-espírito-santo-2023---2024",
+    "title": "Mariana Freitas",
+    "section": "Monitoria na Universidade Federal do Espírito Santo (2023 - 2024)",
+    "text": "Monitoria na Universidade Federal do Espírito Santo (2023 - 2024)\nAtuação como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos da Universidade Federal do Espírito Santo, auxiliando na compreensão de conceitos essenciais da estatística."
+  },
+  {
+    "objectID": "pt/images/mariana_freitas_cv.pt.html#ministrante-rladies-vitória-2024",
+    "href": "pt/images/mariana_freitas_cv.pt.html#ministrante-rladies-vitória-2024",
+    "title": "Mariana Freitas",
+    "section": "Ministrante RLadies Vitória (2024)",
+    "text": "Ministrante RLadies Vitória (2024)\nMinistrante e organizadora do minicurso “R Básico para Químicos” pelo RLadies Vitória, capítulo da R-Ladies Global, que promove a diversidade de gênero na comunidade R."
+  },
+  {
+    "objectID": "pt/images/mariana_freitas_cv.pt.html#pôster-na-66ª-reunião-anual-da-rbras-2022",
+    "href": "pt/images/mariana_freitas_cv.pt.html#pôster-na-66ª-reunião-anual-da-rbras-2022",
+    "title": "Mariana Freitas",
+    "section": "Pôster na 66ª Reunião Anual da RBras (2022)",
+    "text": "Pôster na 66ª Reunião Anual da RBras (2022)\nApresentação do trabalho “Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados” na 66ª RBras, utilizando modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19."
+  },
+  {
+    "objectID": "pt/images/mariana_freitas_cv.pt.html#ministrante-workshop-de-ciência-de-dados-2022",
+    "href": "pt/images/mariana_freitas_cv.pt.html#ministrante-workshop-de-ciência-de-dados-2022",
+    "title": "Mariana Freitas",
+    "section": "Ministrante Workshop de Ciência de Dados (2022)",
+    "text": "Ministrante Workshop de Ciência de Dados (2022)\nMinistrante do minicurso “Introdução ao Shiny”, abordando a criação de dashboards interativos utilizando os pacotes shiny e shinydashboard para visualização de dados em saúde, com foco em dados obstétricos."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.pt.html",
+    "href": "pt/mariana_freitas_cv.pt.html",
+    "title": "Mariana Freitas",
+    "section": "",
+    "text": "Estudante de graduação em Estatística pela Universidade Federal do Espírito Santo (UFES) (2022 - atual).\nAo longo da minha formação desenvolvi interesse por ferramentas estatísticas aplicadas à saúde. Já trabalhei com dados oncológicos, saúde materno-infantil e indicadores de saúde pública, utilizando técnicas de estatística e machine learning. Também me envolvi bastante nas ferramentas R e Shiny para análise exploratória e criação de dashboards interativos. Tenho experiência com modelos de sobrevivência, aprendizado de máquina adaptado a dados censurados e análise de grandes bases de dados, como as do SUS. Além disso, tive a oportunidade de participar de projetos de ensino, o que me permitiu desenvolver habilidades didáticas para explicar conceitos estatísticos de forma clara e objetiva.\n\n\nIdiomas: - Português - Inglês\n\n\nHabilidades: - Análise de dados - Análise exploratória - Análise de Sobrevivência - Support Vector Machine - Linguagem R - Linguagem Python - R Shiny - Visualização de dados - Modelagem estatística"
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.pt.html#iniciação-científica-pela-fapes-2024---atual",
+    "href": "pt/mariana_freitas_cv.pt.html#iniciação-científica-pela-fapes-2024---atual",
+    "title": "Mariana Freitas",
+    "section": "Iniciação Científica pela FAPES (2024 - atual)",
+    "text": "Iniciação Científica pela FAPES (2024 - atual)\nDesenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco nos dados de câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementação de modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.pt.html#bolsista-pela-fiotec-2023---2025",
+    "href": "pt/mariana_freitas_cv.pt.html#bolsista-pela-fiotec-2023---2025",
+    "title": "Mariana Freitas",
+    "section": "Bolsista pela Fiotec (2023 - 2025)",
+    "text": "Bolsista pela Fiotec (2023 - 2025)\nDesenvolvimento de um painel interativo em Shiny/R, com uma equipe multidisciplinar, para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados por meio de gráficos e tabelas interativas, apoiando gestores na tomada de decisão e promovendo a transparência na divulgação de informações de saúde pública."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.pt.html#bolsista-pelo-observatório-obstétrico-brasileiro-oobr-2022---2023",
+    "href": "pt/mariana_freitas_cv.pt.html#bolsista-pelo-observatório-obstétrico-brasileiro-oobr-2022---2023",
+    "title": "Mariana Freitas",
+    "section": "Bolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)",
+    "text": "Bolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)\nAtuação como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Análise estatística dos dados, criação de dashboards interativos e visualização das informações utilizando a linguagem R. Também contribuí com a produção de tutoriais sobre temas estatísticos, disseminando conhecimento na área."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.pt.html#monitoria-na-universidade-federal-do-espírito-santo-2023---2024",
+    "href": "pt/mariana_freitas_cv.pt.html#monitoria-na-universidade-federal-do-espírito-santo-2023---2024",
+    "title": "Mariana Freitas",
+    "section": "Monitoria na Universidade Federal do Espírito Santo (2023 - 2024)",
+    "text": "Monitoria na Universidade Federal do Espírito Santo (2023 - 2024)\nAtuação como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos da Universidade Federal do Espírito Santo, auxiliando na compreensão de conceitos essenciais da estatística."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.pt.html#ministrante-rladies-vitória-2024",
+    "href": "pt/mariana_freitas_cv.pt.html#ministrante-rladies-vitória-2024",
+    "title": "Mariana Freitas",
+    "section": "Ministrante RLadies Vitória (2024)",
+    "text": "Ministrante RLadies Vitória (2024)\nMinistrante e organizadora do minicurso “R Básico para Químicos” pelo RLadies Vitória, capítulo da R-Ladies Global, que promove a diversidade de gênero na comunidade R."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.pt.html#pôster-na-66ª-reunião-anual-da-rbras-2022",
+    "href": "pt/mariana_freitas_cv.pt.html#pôster-na-66ª-reunião-anual-da-rbras-2022",
+    "title": "Mariana Freitas",
+    "section": "Pôster na 66ª Reunião Anual da RBras (2022)",
+    "text": "Pôster na 66ª Reunião Anual da RBras (2022)\nApresentação do trabalho “Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados” na 66ª RBras, utilizando modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.pt.html#ministrante-workshop-de-ciência-de-dados-2022",
+    "href": "pt/mariana_freitas_cv.pt.html#ministrante-workshop-de-ciência-de-dados-2022",
+    "title": "Mariana Freitas",
+    "section": "Ministrante Workshop de Ciência de Dados (2022)",
+    "text": "Ministrante Workshop de Ciência de Dados (2022)\nMinistrante do minicurso “Introdução ao Shiny”, abordando a criação de dashboards interativos utilizando os pacotes shiny e shinydashboard para visualização de dados em saúde, com foco em dados obstétricos."
+  },
+  {
+    "objectID": "pt/producoes.html",
+    "href": "pt/producoes.html",
+    "title": "Mariana Freitas",
+    "section": "",
+    "text": "Tutorial: Análise de Concordância\n\nPainel de Vigilância da Saúde Materna\n\n\nTutorial: Distribuição Amostral\n\nPainel: OOBr SRAG 1000 Dias"
+  },
+  {
+    "objectID": "pt/index.html",
+    "href": "pt/index.html",
+    "title": "Mariana Freitas",
+    "section": "",
+    "text": "Baixar CV \n\n\nSOBRE\n\n\n\n\n\n\nEstudante de graduação de em Estatística pela Universidade Federal do Espírito Santo (UFES) (2022 - atual).\nAo longo da minha formação desenvolvi interesse por ferramentas estatísticas aplicadas à saúde. Já trabalhei com dados oncológicos, saúde materno-infantil e indicadores de saúde pública, utilizando técnicas de estatística e machine learning. Também me envolvi bastante nas ferramentas R e Shiny para análise exploratória e criação de dashboards interativos. Tenho experiência com modelos de sobrevivência, aprendizado de máquina adaptado a dados censurados e análise de grandes bases de dados, como as do SUS. Além disso, tive a oportunidade de participar de projetos de ensino, o que me permitiu desenvolver habilidades didáticas para explicar conceitos estatísticos de forma clara e objetiva.\n\n\n\n\n\nIdiomas\n Português\n Inglês\n\n\nFerramentas\n\n \n\n\n \n\n\n\n\nÁreas de Conhecimento\n\nAnálise de Sobrevivência\n\nSupport Vector Machine\n\nLinguagem R\n\nShiny R\n\nInferência clássica\n\nInferência Bayesiana\n\nAnálise exploratória de dados\n\nModelos de Regressão\n\n\n\n\n\n\n\n\n\nEXPERIÊNCIAS\n\n\n\nIniciação Científica pela FAPES (2024 - atual)\nDesenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco nos dados de câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementei modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo.\n\n\nBolsista pela Fiotec (2023 - 2025)\nDesenvolvimento de um painel interativo em Shiny/R junto a uma equipe multidisciplinar para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados através de gráficos e tabelas interativas. O projeto teve como objetivo apoiar gestores na tomada de decisão e promover transparência na divulgação de informações de saúde pública.\n\n\nBolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)\nAtuei como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Minhas responsabilidades incluíam a análise estatística desses dados, a criação de dashboards interativos e a visualização de informações utilizando a linguagem R. Além disso, contribuía com a produção de tutoriais sobre temas estatísticos, auxiliando na disseminação de conhecimento na área.\n\n\nMonitoria na Universidade Federal do Espírito Santo (2023 - 2024)\nAtuei como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos da Universidade Federal do Espírito Santo, auxiliando na compreensão de conceitos essenciais da estatística.\n\n\n\n\n\n\nEVENTOS E CURSOS\n\n\n\nMinistrante RLadies Vitória (2024)\nParticipei como ministrante e organizadora do minicurso “R Básico para Químicos” pelo RLadies Vitória, capítulo da R-Ladies Global - organização que promove a diversidade de gênero na comunidade R.\n\n\n\nPôster na 66ª Reunião Anual da RBras (2022)\nApresentei o trabalho “Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados” na 66ª RBras, no trabalho foram utilizados modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19. Os resultados destacaram o papel protetor da primeira dose, com efeitos significativos observados 10 a 30 dias após a vacinação.\n\n\n\nMinistrante Workshop de Ciência de Dados (2022)\nMinistrei o minicurso “Introdução ao Shiny”, no qual foram abordados os pacotes shiny e shinydashboard para criação de dashboards interativos. O curso abordou desde a estrutura básica de um aplicativo Shiny até a construção de interfaces dinâmicas para visualização de dados em saúde, com foco em aplicações em dados obstétricos."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.html",
+    "href": "pt/mariana_freitas_cv.html",
+    "title": "Mariana Freitas",
+    "section": "",
+    "text": "Mariana Freitas\nGraduanda em Estatística – UFES (2022 – Atual)\nmarianacfreitas2004@gmail.com | LinkedIn"
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.html#iniciação-científica-pela-fapes-2024---atual",
+    "href": "pt/mariana_freitas_cv.html#iniciação-científica-pela-fapes-2024---atual",
+    "title": "Mariana Freitas",
+    "section": "Iniciação Científica pela FAPES (2024 - atual)",
+    "text": "Iniciação Científica pela FAPES (2024 - atual)\nDesenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco nos dados de câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementação de modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.html#bolsista-pela-fiotec-2023---2025",
+    "href": "pt/mariana_freitas_cv.html#bolsista-pela-fiotec-2023---2025",
+    "title": "Mariana Freitas",
+    "section": "Bolsista pela Fiotec (2023 - 2025)",
+    "text": "Bolsista pela Fiotec (2023 - 2025)\nDesenvolvimento de um painel interativo em Shiny/R, com uma equipe multidisciplinar, para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados por meio de gráficos e tabelas interativas, apoiando gestores na tomada de decisão e promovendo a transparência na divulgação de informações de saúde pública."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.html#bolsista-pelo-observatório-obstétrico-brasileiro-oobr-2022---2023",
+    "href": "pt/mariana_freitas_cv.html#bolsista-pelo-observatório-obstétrico-brasileiro-oobr-2022---2023",
+    "title": "Mariana Freitas",
+    "section": "Bolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)",
+    "text": "Bolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)\nAtuação como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Análise estatística dos dados, criação de dashboards interativos e visualização das informações utilizando a linguagem R. Também contribuí com a produção de tutoriais sobre temas estatísticos, disseminando conhecimento na área."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.html#monitoria-na-universidade-federal-do-espírito-santo-2023---2024",
+    "href": "pt/mariana_freitas_cv.html#monitoria-na-universidade-federal-do-espírito-santo-2023---2024",
+    "title": "Mariana Freitas",
+    "section": "Monitoria na Universidade Federal do Espírito Santo (2023 - 2024)",
+    "text": "Monitoria na Universidade Federal do Espírito Santo (2023 - 2024)\nAtuação como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos da Universidade Federal do Espírito Santo, auxiliando na compreensão de conceitos essenciais da estatística."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.html#ministrante-rladies-vitória-2024",
+    "href": "pt/mariana_freitas_cv.html#ministrante-rladies-vitória-2024",
+    "title": "Mariana Freitas",
+    "section": "Ministrante RLadies Vitória (2024)",
+    "text": "Ministrante RLadies Vitória (2024)\nMinistrante e organizadora do minicurso “R Básico para Químicos” pelo RLadies Vitória, capítulo da R-Ladies Global, que promove a diversidade de gênero na comunidade R."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.html#pôster-na-66ª-reunião-anual-da-rbras-2022",
+    "href": "pt/mariana_freitas_cv.html#pôster-na-66ª-reunião-anual-da-rbras-2022",
+    "title": "Mariana Freitas",
+    "section": "Pôster na 66ª Reunião Anual da RBras (2022)",
+    "text": "Pôster na 66ª Reunião Anual da RBras (2022)\nApresentação do trabalho “Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados” na 66ª RBras, utilizando modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.html#ministrante-workshop-de-ciência-de-dados-2022",
+    "href": "pt/mariana_freitas_cv.html#ministrante-workshop-de-ciência-de-dados-2022",
+    "title": "Mariana Freitas",
+    "section": "Ministrante Workshop de Ciência de Dados (2022)",
+    "text": "Ministrante Workshop de Ciência de Dados (2022)\nMinistrante do minicurso “Introdução ao Shiny”, abordando a criação de dashboards interativos utilizando os pacotes shiny e shinydashboard para visualização de dados em saúde, com foco em dados obstétricos."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.html#sobre",
+    "href": "pt/mariana_freitas_cv.html#sobre",
+    "title": "Mariana Freitas",
+    "section": "Sobre",
+    "text": "Sobre\nExperiência com modelagem estatística, análise de sobrevivência e aprendizado de máquina aplicados à área da saúde. Domínio de R e Python para análise de dados, modelagem preditiva e desenvolvimento de aplicações interativas. Atuação com bancos de dados públicos, foco comunicação de resultados por meio de dashboards."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.html#habilidades-idiomas",
+    "href": "pt/mariana_freitas_cv.html#habilidades-idiomas",
+    "title": "Mariana Freitas",
+    "section": "Habilidades & Idiomas",
+    "text": "Habilidades & Idiomas\nIdiomas: Português (nativo), Inglês (avançado)\nFerramentas: R, Python, Shiny, LaTeX\nTópicos: Análise de dados, Visualização, Modelagem estatística, Análise de sobrevivência, Aprendizado de máquina, Shiny Dashboards"
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.html#experiências",
+    "href": "pt/mariana_freitas_cv.html#experiências",
+    "title": "Mariana Freitas",
+    "section": "Experiências",
+    "text": "Experiências\nBolsista de Iniciação Científica – FAPES\n2024–Atual\nPesquisa sobre técnicas de aprendizado de máquina para análise de sobrevivência com dados oncológicos. Ênfase em máquinas de vetores de suporte adaptadas à censura e avaliação por simulações.\nBolsista – Fiotec / OOBr\n2023–2025\nDesenvolvimento de plataforma interativa para monitoramento da saúde materno-infantil. Responsável pela construção de dashboards, utilização de bases públicas e visualização para apoio à gestão.\nBolsista – Observatório Obstétrico Brasileiro (OOBr)\n2022–2023\nAnálises estatísticas com dados públicos sobre saúde materna. Desenvolvimento de dashboards interativos e elaboração de tutoriais para divulgação de conhecimento estatístico.\nMonitora – UFES\n2023–2024\nAuxílio a estudantes nas disciplinas de Probabilidade e Estatística. Suporte na resolução de exercícios, reforço conceitual e aplicação prática com R."
+  },
+  {
+    "objectID": "pt/mariana_freitas_cv.html#eventos-cursos",
+    "href": "pt/mariana_freitas_cv.html#eventos-cursos",
+    "title": "Mariana Freitas",
+    "section": "Eventos & Cursos",
+    "text": "Eventos & Cursos\nMinistrante – RLadies Vitória • 2024\nOrganização e condução de oficina introdutória de R para estudantes de Química, com foco em sintaxe básica, manipulação e visualização de dados.\nApresentação de Pôster – 66ª RBras • 2022\nTrabalho sobre efeitos da vacinação em desfechos obstétricos relacionados à COVID-19, utilizando modelos de regressão segmentada para análise temporal.\nMinistrante – Oficina de Ciência de Dados • 2022\nMinistrei curso introdutório sobre criação de dashboards interativos para análise de dados em saúde, abordando estrutura de aplicativos e design de interfaces."
+  },
+  {
+    "objectID": "mariana_freitas_cv.html#about",
+    "href": "mariana_freitas_cv.html#about",
+    "title": "Mariana Freitas",
+    "section": "About",
+    "text": "About\nExperience with statistical modeling, survival analysis, and machine learning applied to health data. Skilled in R and Python for data analysis, predictive modeling, and development of interactive applications. Focus on public databases, and communication of statistical results through dashboards."
+  },
+  {
+    "objectID": "mariana_freitas_cv.html#skills-languages",
+    "href": "mariana_freitas_cv.html#skills-languages",
+    "title": "Mariana Freitas",
+    "section": "Skills & Languages",
+    "text": "Skills & Languages\nLanguages: Portuguese (native), English (advanced)\nTools: R, Python, Shiny, LATEX\nTopics: Data analysis, Visualization, Statistical modeling, Survival analysis, Machine learning, Shiny Dashboards"
+  },
+  {
+    "objectID": "mariana_freitas_cv.html#experience",
+    "href": "mariana_freitas_cv.html#experience",
+    "title": "Mariana Freitas",
+    "section": "Experience",
+    "text": "Experience\nResearch Fellow – FAPES\n2024–Present\nResearch on machine learning techniques for survival analysis using oncological data. Focus on support vector machines adapted to censored data and simulation-based model evaluation.\nFiotec Fellow – OOBr\n2023–2025\nDevelopment of an interactive platform for maternal and child health monitoring. Responsible for dashboard implementation, data integration from public sources, and interface design for data-driven decision support.\nFellow – Brazilian Obstetric Observatory (OOBr)\n2022–2023\nConducted statistical analyses on maternal health outcomes using public data. Created interactive dashboards and contributed to the development of tutorials for statistical education.\nTeaching Assistant – UFES\n2023–2024\nSupported students in understanding core concepts of probability and statistics. Assisted in applied problem solving using R."
+  },
+  {
+    "objectID": "mariana_freitas_cv.html#courses-events",
+    "href": "mariana_freitas_cv.html#courses-events",
+    "title": "Mariana Freitas",
+    "section": "Courses & Events",
+    "text": "Courses & Events\nInstructor – RLadies Vitória • 2024\nOrganized and taught an introductory R workshop for Chemistry students, covering basic syntax, manipulation, and visualization.\nPoster Presentation – 66th RBras • 2022\nPresented a study on vaccination effects in obstetric COVID-19 outcomes using segmented regression models to evaluate impact over time.\nInstructor – Data Science Workshop • 2022\nTaught the creation of interactive dashboards for health data analysis. Introduced app structure, reactivity, and design of user interfaces."
   }
 ]

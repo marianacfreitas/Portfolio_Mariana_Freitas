@@ -1,82 +1,55 @@
 ---
-title: "Mariana Freitas"
-output: pdf_document
-fontsize: 11pt
+output: 
+  pdf_document:
+    toc: false
+    number_sections: false
+fontsize: 10pt
 geometry: margin=1in
 mainfont: Arial
 sansfont: Arial
-linestretch: 1.2
+linestretch: 1.0
 ---
 
-# SOBRE
+**Mariana Freitas**  
+Undergraduate Student in Statistics – UFES (2022 – Present)  
+[marianacfreitas2004@gmail.com](mailto:marianacfreitas2004@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mariana-freitas-680b712b6/)
 
-Estudante de graduação em Estatística pela Universidade Federal do Espírito Santo (UFES) (2022 - atual).
+## About
 
-Ao longo da minha formação desenvolvi interesse por ferramentas estatísticas aplicadas à saúde. Já trabalhei com dados oncológicos, saúde materno-infantil e indicadores de saúde pública, utilizando técnicas de estatística e machine learning. Também me envolvi bastante nas ferramentas R e Shiny para análise exploratória e criação de dashboards interativos. Tenho experiência com modelos de sobrevivência, aprendizado de máquina adaptado a dados censurados e análise de grandes bases de dados, como as do SUS. Além disso, tive a oportunidade de participar de projetos de ensino, o que me permitiu desenvolver habilidades didáticas para explicar conceitos estatísticos de forma clara e objetiva.
+Experience with statistical modeling, survival analysis, and machine learning applied to health data. Skilled in R and Python for data analysis, predictive modeling, and development of interactive applications. Focus on public databases, and communication of statistical results through dashboards.
 
-::: {style="display: flex; justify-content: space-between;"}
-<div>
+## Skills & Languages
 
-**Idiomas:** 
-- Português 
-- Inglês
+**Languages:** Portuguese (native), English (advanced)  
+**Tools:** R, Python, Shiny, LATEX  
+**Topics:** Data analysis, Visualization, Statistical modeling, Survival analysis, Machine learning, Shiny Dashboards
 
-</div>
+## Experience
 
-<div>
+**Research Fellow – FAPES**  
+*2024–Present*  
+Research on machine learning techniques for survival analysis using oncological data. Focus on support vector machines adapted to censored data and simulation-based model evaluation.
 
-**Habilidades:** 
-- Análise de dados 
-- Análise exploratória 
-- Análise de Sobrevivência 
-- Support Vector Machine 
-- Linguagem R 
-- Linguagem Python 
-- R Shiny 
-- Visualização de dados 
-- Modelagem estatística
+**Fiotec Fellow – OOBr**  
+*2023–2025*  
+Development of an interactive platform for maternal and child health monitoring. Responsible for dashboard implementation, data integration from public sources, and interface design for data-driven decision support.
 
-</div>
-:::
+**Fellow – Brazilian Obstetric Observatory (OOBr)**  
+*2022–2023*  
+Conducted statistical analyses on maternal health outcomes using public data. Created interactive dashboards and contributed to the development of tutorials for statistical education.
 
-# EXPERIÊNCIAS
+**Teaching Assistant – UFES**  
+*2023–2024*  
+Supported students in understanding core concepts of probability and statistics. Assisted in applied problem solving using R.
 
-## Iniciação Científica pela FAPES (2024 - atual)
+## Courses & Events
 
-Desenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco nos dados de câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementação de modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo.
+**Instructor – RLadies Vitória** • 2024  
+Organized and taught an introductory R workshop for Chemistry students, covering basic syntax, manipulation, and visualization.
 
-## Bolsista pela Fiotec (2023 - 2025)
+**Poster Presentation – 66th RBras** • 2022  
+Presented a study on vaccination effects in obstetric COVID-19 outcomes using segmented regression models to evaluate impact over time.
 
-Desenvolvimento de um painel interativo em Shiny/R, com uma equipe multidisciplinar, para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados por meio de gráficos e tabelas interativas, apoiando gestores na tomada de decisão e promovendo a transparência na divulgação de informações de saúde pública.
-
-## Bolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)
-
-Atuação como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Análise estatística dos dados, criação de dashboards interativos e visualização das informações utilizando a linguagem R. Também contribuí com a produção de tutoriais sobre temas estatísticos, disseminando conhecimento na área.
-
-## Monitoria na Universidade Federal do Espírito Santo (2023 - 2024)
-
-Atuação como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos da Universidade Federal do Espírito Santo, auxiliando na compreensão de conceitos essenciais da estatística.
-
-------------------------------------------------------------------------
-
-# EVENTOS E CURSOS
-
-## Ministrante RLadies Vitória (2024)
-
-Ministrante e organizadora do minicurso "R Básico para Químicos" pelo RLadies Vitória, capítulo da R-Ladies Global, que promove a diversidade de gênero na comunidade R.
-
-## Pôster na 66ª Reunião Anual da RBras (2022)
-
-Apresentação do trabalho "Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados" na 66ª RBras, utilizando modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19.
-
-## Ministrante Workshop de Ciência de Dados (2022)
-
-Ministrante do minicurso "Introdução ao Shiny", abordando a criação de dashboards interativos utilizando os pacotes *shiny* e *shinydashboard* para visualização de dados em saúde, com foco em dados obstétricos.
-
-# CONTATO
-
-- E-mail: [marianacfreitas2004@gmail.com](marianacfreitas2004@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/mariana-freitas-680b712b6/)
-
-
+**Instructor – Data Science Workshop** • 2022  
+Taught the creation of interactive dashboards for health data analysis. Introduced app structure, reactivity, and design of user interfaces.
 

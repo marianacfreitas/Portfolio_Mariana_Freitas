@@ -1,0 +1,82 @@
+---
+title: "Mariana Freitas"
+output: pdf_document
+fontsize: 11pt
+geometry: margin=1in
+mainfont: Arial
+sansfont: Arial
+linestretch: 1.2
+---
+
+# SOBRE
+
+Estudante de graduação em Estatística pela Universidade Federal do Espírito Santo (UFES) (2022 - atual).
+
+Ao longo da minha formação desenvolvi interesse por ferramentas estatísticas aplicadas à saúde. Já trabalhei com dados oncológicos, saúde materno-infantil e indicadores de saúde pública, utilizando técnicas de estatística e machine learning. Também me envolvi bastante nas ferramentas R e Shiny para análise exploratória e criação de dashboards interativos. Tenho experiência com modelos de sobrevivência, aprendizado de máquina adaptado a dados censurados e análise de grandes bases de dados, como as do SUS. Além disso, tive a oportunidade de participar de projetos de ensino, o que me permitiu desenvolver habilidades didáticas para explicar conceitos estatísticos de forma clara e objetiva.
+
+::: {style="display: flex; justify-content: space-between;"}
+<div>
+
+**Idiomas:** 
+- Português 
+- Inglês
+
+</div>
+
+<div>
+
+**Habilidades:** 
+- Análise de dados 
+- Análise exploratória 
+- Análise de Sobrevivência 
+- Support Vector Machine 
+- Linguagem R 
+- Linguagem Python 
+- R Shiny 
+- Visualização de dados 
+- Modelagem estatística
+
+</div>
+:::
+
+# EXPERIÊNCIAS
+
+## Iniciação Científica pela FAPES (2024 - atual)
+
+Desenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco nos dados de câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementação de modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo.
+
+## Bolsista pela Fiotec (2023 - 2025)
+
+Desenvolvimento de um painel interativo em Shiny/R, com uma equipe multidisciplinar, para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados por meio de gráficos e tabelas interativas, apoiando gestores na tomada de decisão e promovendo a transparência na divulgação de informações de saúde pública.
+
+## Bolsista pelo Observatório Obstétrico Brasileiro (OOBr) (2022 - 2023)
+
+Atuação como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Análise estatística dos dados, criação de dashboards interativos e visualização das informações utilizando a linguagem R. Também contribuí com a produção de tutoriais sobre temas estatísticos, disseminando conhecimento na área.
+
+## Monitoria na Universidade Federal do Espírito Santo (2023 - 2024)
+
+Atuação como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos da Universidade Federal do Espírito Santo, auxiliando na compreensão de conceitos essenciais da estatística.
+
+------------------------------------------------------------------------
+
+# EVENTOS E CURSOS
+
+## Ministrante RLadies Vitória (2024)
+
+Ministrante e organizadora do minicurso "R Básico para Químicos" pelo RLadies Vitória, capítulo da R-Ladies Global, que promove a diversidade de gênero na comunidade R.
+
+## Pôster na 66ª Reunião Anual da RBras (2022)
+
+Apresentação do trabalho "Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados" na 66ª RBras, utilizando modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19.
+
+## Ministrante Workshop de Ciência de Dados (2022)
+
+Ministrante do minicurso "Introdução ao Shiny", abordando a criação de dashboards interativos utilizando os pacotes *shiny* e *shinydashboard* para visualização de dados em saúde, com foco em dados obstétricos.
+
+# CONTATO
+
+- E-mail: [marianacfreitas2004@gmail.com](marianacfreitas2004@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/mariana-freitas-680b712b6/)
+
+
+

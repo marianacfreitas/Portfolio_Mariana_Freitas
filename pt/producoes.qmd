@@ -1,5 +1,6 @@
 ---
 title: " "
+lang: pt
 format: html
 page-layout: full
 ---
@@ -9,9 +10,8 @@ page-layout: full
 
 /* Força o fundo mesmo em temas do Quarto */
 body, .quarto-body, .page-wrapper, .content {
-  background-color: #000a2a !important;
+  background-color: #A2CFFE !important;
   color: white;
-
 }
 
 /* Se houver elementos internos cobrindo o body */
@@ -27,21 +27,21 @@ body, .quarto-body, .page-wrapper, .content {
 
 ::: {.column width="50%" style="text-align: center;"}
 
-[![Tutorial: Concordance Analysis](images/concordancia.png){width=400px style="border: 2px solid white; border-radius: 8px;"}](https://observatorioobstetricobr.org/livro-e-tutoriais/analise-de-concordancia/)  
-**Tutorial: Concordance Analysis**
+[![Tutorial: Análise de Concordância](images/concordancia.png){width=400px style="border: 2px solid white; border-radius: 8px;"}](https://observatorioobstetricobr.org/livro-e-tutoriais/analise-de-concordancia/)  
+**Tutorial: Análise de Concordância**
 
 [![Painel de Vigilância da Saúde Materna](images/vigilancia.png){width=400px style="border: 2px solid white; border-radius: 8px;"}](https://observatorioobstetrico.shinyapps.io/painel-vigilancia-saude-materna/)  
-**Maternal Health Monitoring Dashboard**
+**Painel de Vigilância da Saúde Materna**
 
 :::
 
 ::: {.column width="50%" style="text-align: center;"}
 
 [![Tutorial: Distribuição Amostral](images/distribuicao_amostral.png){width=400px style="border: 2px solid white; border-radius: 8px;"}](https://observatorioobstetricobr.org/livro-e-tutoriais/distribuicao-amostral/)  
-**Tutorial: Sampling Distribution**
+**Tutorial: Distribuição Amostral**
 
-[![OOBr 1000 Days Dashboard](images/1000dias.png){width=400px style="border: 2px solid white; border-radius: 8px;"}](https://observatorioobstetrico.shinyapps.io/criancas_ate2anos/)  
-**OOBr 1000 Days Dashboard**
+[![Painel: OOBr SRAG 1000 Dias](images/1000dias.png){width=400px style="border: 2px solid white; border-radius: 8px;"}](https://observatorioobstetrico.shinyapps.io/criancas_ate2anos/)  
+**Painel: OOBr SRAG 1000 Dias**
 
 :::
 

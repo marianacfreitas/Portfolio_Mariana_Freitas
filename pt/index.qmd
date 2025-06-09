@@ -1,14 +1,17 @@
 ---
 title: " "
+lang: pt
 toc: false
 page-layout: full
 ---
 
 <!-- ESTILOS GERAIS -->
+
+```{=html}
 <style>
 .card {
-  background-color: #d9fbe6; /* verde menta claro */
-  color: black;
+  background-color: #F5F5F5; /* cor do card */
+  color: black; /* cor da letra do card */
   border-radius: 16px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
   padding: 2rem;
@@ -41,21 +44,33 @@ page-layout: full
   border-radius: 8px;
 }
 
+/* Força o fundo mesmo em temas do Quarto */
+body, .quarto-body, .page-wrapper, .content {
+  background-color: #A2CFFE !important; /* cor de fundo */
+}
+
+/* Se houver elementos internos cobrindo o body */
+.quarto-container, .main-container {
+  background-color: transparent !important;
+}
+
 
 </style>
+```
 
-<a href="mariana_freitas_cv.pdf" class="btn-download" download style="color: black; text-align: center;">
-  Baixar CV
-</a>
+<a href="mariana_freitas_cv.pdf" class="btn-download" download style="color: black; text-align: center;"> Baixar CV </a>
 
 <section id="sobre">
 
-<h3 style="text-align: center; color: white;">SOBRE</h3>
+<h3 style="text-align: center; color: white;">
 
-  
-  <div class="card">
-  
-  <style>
+SOBRE
+
+</h3>
+
+::: card
+```{=html}
+<style>
   .profile-container {
     display: flex;
     align-items: flex-start;
@@ -71,111 +86,118 @@ page-layout: full
   border-radius: 8px;
 }
 </style>
-  
-  <div class="profile-container">
-  <img src="images/profile.jpeg" alt=" " class="profile-photo"/>
-  <div>
-  
-  Estudante de graduação de em Estatística pela Universidade Federal do Espírito Santo (UFES) (2022 - atual).
-  
+```
+::: profile-container
+<img src="images/profile.jpeg" alt=" " class="profile-photo"/>
+
+<div>
+
+Estudante de graduação de em Estatística pela Universidade Federal do Espírito Santo (UFES) (2022 - atual).
+
 Ao longo da minha formação desenvolvi interesse por ferramentas estatísticas aplicadas à saúde. Já trabalhei com dados oncológicos, saúde materno-infantil e indicadores de saúde pública, utilizando técnicas de estatística e machine learning. Também me envolvi bastante nas ferramentas R e Shiny para análise exploratória e criação de dashboards interativos. Tenho experiência com modelos de sobrevivência, aprendizado de máquina adaptado a dados censurados e análise de grandes bases de dados, como as do SUS. Além disso, tive a oportunidade de participar de projetos de ensino, o que me permitiu desenvolver habilidades didáticas para explicar conceitos estatísticos de forma clara e objetiva.
 
 </div>
-  </div>
+:::
 
- 
-::: {.columns}
-
+::: columns
 ::: {.column width="50%"}
+### **Idiomas**
 
-### **Idiomas** 
-
-<img src="https://flagcdn.com/br.svg" width="20" style="vertical-align:middle"> Português  
-<img src="https://flagcdn.com/gb.svg" width="20" style="vertical-align:middle"> Inglês  
+<img src="https://flagcdn.com/br.svg" width="20" style="vertical-align:middle"/> Português\
+<img src="https://flagcdn.com/gb.svg" width="20" style="vertical-align:middle"/> Inglês
 
 ### **Ferramentas**
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="images/R_logo.png" alt="Logo do R" width="50px">
-  <img src="images/shiny_logo.png" alt="Logo do Shiny" width="50px">
-</div>
+::: {style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;"}
+<img src="images/R_logo.png" alt="Logo do R" width="50px"/> <img src="images/shiny_logo.png" alt="Logo do Shiny" width="50px"/>
+:::
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="images/python_logo.png" alt="Logo do Python" width="50px">
-  <img src="images/github_logo.png" alt="Logo do GitHub" width="50px">
-</div>
-
+::: {style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;"}
+<img src="images/python_logo.png" alt="Logo do Python" width="50px"/> <img src="images/github_logo.png" alt="Logo do GitHub" width="50px"/>
+:::
 :::
 
 ::: {.column width="50%"}
+### **Áreas de Conhecimento**
 
-### **Áreas de Conhecimento** 
-
-+ Análise de Sobrevivência  
-+ Support Vector Machine  
-+ Linguagem R  
-+ Shiny R  
-+ Inferência clássica  
-+ Inferência Bayesiana  
-+ Análise exploratória de dados  
-+ Modelos de Regressão
-
+-   Análise de Sobrevivência\
+-   Support Vector Machine\
+-   Linguagem R\
+-   Shiny R\
+-   Inferência clássica\
+-   Inferência Bayesiana\
+-   Análise exploratória de dados\
+-   Modelos de Regressão
+:::
+:::
 :::
 
-:::
-
-
-
-</div>
-  </section>
+</section>
 
 <!-- SEÇÃO EXPERIÊNCIAS -->
+
 <section id="experiencias">
-<h3 style="text-align: center; color: white;">EXPERIÊNCIAS</h3>
 
-<div class="card-grid">
+<h3 style="text-align: center; color: white;">
 
-<div class="card">
-### **Iniciação Científica pela FAPES** (2024 - atual)  
+EXPERIÊNCIAS
+
+</h3>
+
+::: card-grid
+::: card
+### **Iniciação Científica pela FAPES** (2024 - atual)
+
 Desenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco nos dados de câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementei modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo.
-</div>
+:::
 
-<div class="card">
-### **Bolsista pela Fiotec** (2023 - 2025) 
+::: card
+### **Bolsista pela Fiotec** (2023 - 2025)
+
 Desenvolvimento de um painel interativo em Shiny/R junto a uma equipe multidisciplinar para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados através de gráficos e tabelas interativas. O projeto teve como objetivo apoiar gestores na tomada de decisão e promover transparência na divulgação de informações de saúde pública.
-</div>
+:::
 
-<div class="card">
-### **Bolsista pelo Observatório Obstétrico Brasileiro (OOBr)** (2022 - 2023) 
+::: card
+### **Bolsista pelo Observatório Obstétrico Brasileiro (OOBr)** (2022 - 2023)
+
 Atuei como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Minhas responsabilidades incluíam a análise estatística desses dados, a criação de dashboards interativos e a visualização de informações utilizando a linguagem R. Além disso, contribuía com a produção de tutoriais sobre temas estatísticos, auxiliando na disseminação de conhecimento na área.
-</div>
+:::
 
-<div class="card">
-### **Monitoria na Universidade Federal do Espírito Santo** (2023 - 2024) 
+::: card
+### **Monitoria na Universidade Federal do Espírito Santo** (2023 - 2024)
+
 Atuei como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos da Universidade Federal do Espírito Santo, auxiliando na compreensão de conceitos essenciais da estatística.
-</div>
+:::
+:::
 
-</div>
 </section>
 
 <!-- SEÇÃO EVENTOS E CURSOS -->
+
 <section id="eventos">
-<h3 style="text-align: center; color: white;">EVENTOS E CURSOS</h3>
 
-<div class="card">
+<h3 style="text-align: center; color: white;">
 
-### **Ministrante RLadies Vitória** (2024) 
+EVENTOS E CURSOS
+
+</h3>
+
+::: card
+### **Ministrante RLadies Vitória** (2024)
+
 Participei como ministrante e organizadora do minicurso "R Básico para Químicos" pelo RLadies Vitória, capítulo da R-Ladies Global - organização que promove a diversidade de gênero na comunidade R.
 
----
+------------------------------------------------------------------------
 
 ### **Pôster na 66ª Reunião Anual da RBras** (2022)
+
 Apresentei o trabalho "Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados" na 66ª RBras, no trabalho foram utilizados modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19. Os resultados destacaram o papel protetor da primeira dose, com efeitos significativos observados 10 a 30 dias após a vacinação.
 
----
+------------------------------------------------------------------------
 
-### **Ministrante Workshop de Ciência de Dados** (2022) 
+### **Ministrante Workshop de Ciência de Dados** (2022)
+
 Ministrei o minicurso "Introdução ao Shiny", no qual foram abordados os pacotes *shiny* e *shinydashboard* para criação de dashboards interativos. O curso abordou desde a estrutura básica de um aplicativo Shiny até a construção de interfaces dinâmicas para visualização de dados em saúde, com foco em aplicações em dados obstétricos.
+:::
 
-</div>
 </section>

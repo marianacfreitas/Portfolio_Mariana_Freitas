@@ -1,5 +1,6 @@
 ---
 title: " "
+lang: en
 toc: false
 page-layout: full
 ---
@@ -9,8 +10,8 @@ page-layout: full
 ```{=html}
 <style>
 .card {
-  background-color: #9dd9f3; /* verde menta claro */
-  color: black;
+  background-color: #F5F5F5; /* cor do card */
+  color: black; /* cor da letra do card */
   border-radius: 16px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
   padding: 2rem;
@@ -45,7 +46,7 @@ page-layout: full
 
 /* Força o fundo mesmo em temas do Quarto */
 body, .quarto-body, .page-wrapper, .content {
-  background-color: #000a2a !important;
+  background-color: #A2CFFE !important; /* cor de fundo */
 }
 
 /* Se houver elementos internos cobrindo o body */
@@ -53,16 +54,17 @@ body, .quarto-body, .page-wrapper, .content {
   background-color: transparent !important;
 }
 
-
 </style>
 ```
-<a href="mariana_freitas_cv.pdf" class="btn-download" download style="color: black; text-align: center;"> Baixar CV </a>
 
-<section id="sobre">
+
+<a href="mariana_freitas_cv.pdf" class="btn-download" download style="color: black; text-align: center;"> Download CV </a>
+
+<section id="about">
 
 <h3 style="text-align: center; color: white;">
 
-SOBRE
+ABOUT
 
 </h3>
 
@@ -90,21 +92,21 @@ SOBRE
 
 <div>
 
-Estudante de graduação de em Estatística pela Universidade Federal do Espírito Santo (UFES) (2022 - atual).
+Undergraduate student in Statistics at the Federal University of Espírito Santo (UFES) (2022 - present).
 
-Ao longo da minha formação desenvolvi interesse por ferramentas estatísticas aplicadas à saúde. Já trabalhei com dados oncológicos, saúde materno-infantil e indicadores de saúde pública, utilizando técnicas de estatística e machine learning. Também me envolvi bastante nas ferramentas R e Shiny para análise exploratória e criação de dashboards interativos. Tenho experiência com modelos de sobrevivência, aprendizado de máquina adaptado a dados censurados e análise de grandes bases de dados, como as do SUS. Além disso, tive a oportunidade de participar de projetos de ensino, o que me permitiu desenvolver habilidades didáticas para explicar conceitos estatísticos de forma clara e objetiva.
+Throughout my academic journey, I've developed a strong interest in statistical tools applied to healthcare. I've worked with oncological data, maternal-child health, and public health indicators, employing statistical techniques and machine learning. I've gained substantial experience with R and Shiny for exploratory analysis and creating interactive dashboards. My expertise includes survival models, machine learning adapted to censored data, and analysis of large datasets such as those from the Brazilian Unified Health System (SUS). Additionally, I've participated in teaching projects, which allowed me to develop didactic skills for explaining statistical concepts clearly and objectively.
 
 </div>
 :::
 
 ::: columns
 ::: {.column width="50%"}
-### **Idiomas**
+### **Languages**
 
-<img src="https://flagcdn.com/br.svg" width="20" style="vertical-align:middle"/> Português\
-<img src="https://flagcdn.com/gb.svg" width="20" style="vertical-align:middle"/> Inglês
+<img src="https://flagcdn.com/br.svg" width="20" style="vertical-align:middle"/> Portuguese\
+<img src="https://flagcdn.com/gb.svg" width="20" style="vertical-align:middle"/> English
 
-### **Ferramentas**
+### **Tools**
 
 ::: {style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;"}
 <img src="images/R_logo.png" alt="Logo do R" width="50px"/> <img src="images/shiny_logo.png" alt="Logo do Shiny" width="50px"/>
@@ -116,16 +118,16 @@ Ao longo da minha formação desenvolvi interesse por ferramentas estatísticas 
 :::
 
 ::: {.column width="50%"}
-### **Áreas de Conhecimento**
+### **Expertise Areas**
 
--   Análise de Sobrevivência\
+-   Survival Analysis\
 -   Support Vector Machine\
--   Linguagem R\
+-   R Programming Language\
 -   Shiny R\
--   Inferência clássica\
--   Inferência Bayesiana\
--   Análise exploratória de dados\
--   Modelos de Regressão
+-   Classical Inference\
+-   Bayesian Inference\
+-   Exploratory Data Analysis\
+-   Regression Models
 :::
 :::
 :::
@@ -134,37 +136,37 @@ Ao longo da minha formação desenvolvi interesse por ferramentas estatísticas 
 
 <!-- SEÇÃO EXPERIÊNCIAS -->
 
-<section id="experiencias">
+<section id="experiences">
 
 <h3 style="text-align: center; color: white;">
 
-EXPERIÊNCIAS
+EXPERIENCES
 
 </h3>
 
 ::: card-grid
 ::: card
-### **Iniciação Científica pela FAPES** (2024 - atual)
+### **Research Fellow at FAPES** (2024 - present)
 
-Desenvolvimento de pesquisa em análise de sobrevivência aplicada a dados oncológicos, com foco nos dados de câncer colorretal da Fundação Oncoentro de São Paulo (FOSP). Implementei modelos de Support Vector Machine (SVM) adaptados para dados censurados, avaliando fatores prognósticos e desempenho preditivo.
+Development of research in survival analysis applied to oncological data, focusing on colorectal cancer data from the Oncoentro Foundation of São Paulo (FOSP). Implemented Support Vector Machine (SVM) models adapted for censored data, evaluating prognostic factors and predictive performance.
 :::
 
 ::: card
-### **Bolsista pela Fiotec** (2023 - 2025)
+### **Fiotec Fellow** (2023 - 2025)
 
-Desenvolvimento de um painel interativo em Shiny/R junto a uma equipe multidisciplinar para análise de indicadores de saúde materno-infantil no Brasil, utilizando dados públicos do SUS. A plataforma permite visualização dinâmica de dados através de gráficos e tabelas interativas. O projeto teve como objetivo apoiar gestores na tomada de decisão e promover transparência na divulgação de informações de saúde pública.
+Development of an interactive Shiny/R dashboard with a multidisciplinary team for analyzing maternal-child health indicators in Brazil, using public SUS data. The platform enables dynamic data visualization through interactive charts and tables. The project aimed to support decision-making by healthcare managers and promote transparency in public health information dissemination.
 :::
 
 ::: card
-### **Bolsista pelo Observatório Obstétrico Brasileiro (OOBr)** (2022 - 2023)
+### **Fellow at Brazilian Obstetric Observatory (OOBr)** (2022 - 2023)
 
-Atuei como bolsista no OOBr, trabalhando com dados públicos relacionados à saúde materna. Minhas responsabilidades incluíam a análise estatística desses dados, a criação de dashboards interativos e a visualização de informações utilizando a linguagem R. Além disso, contribuía com a produção de tutoriais sobre temas estatísticos, auxiliando na disseminação de conhecimento na área.
+Worked as a fellow at OOBr, handling public data related to maternal health. My responsibilities included statistical analysis of this data, creating interactive dashboards, and information visualization using R. Additionally, I contributed to producing statistical tutorials, helping disseminate knowledge in the field.
 :::
 
 ::: card
-### **Monitoria na Universidade Federal do Espírito Santo** (2023 - 2024)
+### **Teaching Assistant at Federal University of Espírito Santo** (2023 - 2024)
 
-Atuei como monitora da disciplina Probabilidade e Estatística para alunos de diversos cursos da Universidade Federal do Espírito Santo, auxiliando na compreensão de conceitos essenciais da estatística.
+Served as a teaching assistant for Probability and Statistics courses for students across various programs at the Federal University of Espírito Santo, helping them grasp essential statistical concepts.
 :::
 :::
 
@@ -172,30 +174,30 @@ Atuei como monitora da disciplina Probabilidade e Estatística para alunos de di
 
 <!-- SEÇÃO EVENTOS E CURSOS -->
 
-<section id="eventos">
+<section id="events">
 
 <h3 style="text-align: center; color: white;">
 
-EVENTOS E CURSOS
+EVENTS AND COURSES
 
 </h3>
 
 ::: card
-### **Ministrante RLadies Vitória** (2024)
+### **Instructor at RLadies Vitória** (2024)
 
-Participei como ministrante e organizadora do minicurso "R Básico para Químicos" pelo RLadies Vitória, capítulo da R-Ladies Global - organização que promove a diversidade de gênero na comunidade R.
-
-------------------------------------------------------------------------
-
-### **Pôster na 66ª Reunião Anual da RBras** (2022)
-
-Apresentei o trabalho "Avaliação dos impactos da vacinação em dados de COVID-19 via modelos segmentados" na 66ª RBras, no trabalho foram utilizados modelos de Poisson, quasi-Poisson e regressão beta segmentada para analisar o efeito da vacinação em desfechos obstétricos graves por COVID-19. Os resultados destacaram o papel protetor da primeira dose, com efeitos significativos observados 10 a 30 dias após a vacinação.
+Served as instructor and organizer for the "Basic R for Chemists" workshop at RLadies Vitória, a chapter of R-Ladies Global - an organization promoting gender diversity in the R community.
 
 ------------------------------------------------------------------------
 
-### **Ministrante Workshop de Ciência de Dados** (2022)
+### **Poster Presentation at 66th RBras Annual Meeting** (2022)
 
-Ministrei o minicurso "Introdução ao Shiny", no qual foram abordados os pacotes *shiny* e *shinydashboard* para criação de dashboards interativos. O curso abordou desde a estrutura básica de um aplicativo Shiny até a construção de interfaces dinâmicas para visualização de dados em saúde, com foco em aplicações em dados obstétricos.
+Presented the work "Evaluation of vaccination impacts on COVID-19 data via segmented models" at the 66th RBras. The study used Poisson, quasi-Poisson, and segmented beta regression models to analyze vaccination effects on severe obstetric outcomes from COVID-19. Results highlighted the protective role of the first dose, with significant effects observed 10 to 30 days post-vaccination.
+
+------------------------------------------------------------------------
+
+### **Instructor at Data Science Workshop** (2022)
+
+Taught the "Introduction to Shiny" course, covering the *shiny* and *shinydashboard* packages for creating interactive dashboards. The course ranged from basic Shiny app structure to building dynamic interfaces for health data visualization, with focus on obstetric data applications.
 :::
 
 </section>

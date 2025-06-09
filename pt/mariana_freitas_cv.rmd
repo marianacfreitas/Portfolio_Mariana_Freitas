@@ -1,0 +1,55 @@
+---
+output: 
+  pdf_document:
+    toc: false
+    number_sections: false
+fontsize: 10pt
+geometry: margin=1in
+mainfont: Arial
+sansfont: Arial
+linestretch: 1.0
+---
+
+**Mariana Freitas**  
+Graduanda em Estatística – UFES (2022 – Atual)  
+[marianacfreitas2004@gmail.com](mailto:marianacfreitas2004@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mariana-freitas-680b712b6/)
+
+## Sobre
+
+Experiência com modelagem estatística, análise de sobrevivência e aprendizado de máquina aplicados à área da saúde. Domínio de R e Python para análise de dados, modelagem preditiva e desenvolvimento de aplicações interativas. Atuação com bancos de dados públicos, foco comunicação de resultados por meio de dashboards.
+
+## Habilidades & Idiomas
+
+**Idiomas:** Português (nativo), Inglês (avançado)  
+**Ferramentas:** R, Python, Shiny, LaTeX  
+**Tópicos:** Análise de dados, Visualização, Modelagem estatística, Análise de sobrevivência, Aprendizado de máquina, Shiny Dashboards
+
+## Experiências
+
+**Bolsista de Iniciação Científica – FAPES**  
+*2024–Atual*  
+Pesquisa sobre técnicas de aprendizado de máquina para análise de sobrevivência com dados oncológicos. Ênfase em máquinas de vetores de suporte adaptadas à censura e avaliação por simulações.
+
+**Bolsista – Fiotec / OOBr**  
+*2023–2025*  
+Desenvolvimento de plataforma interativa para monitoramento da saúde materno-infantil. Responsável pela construção de dashboards, utilização de bases públicas e visualização para apoio à gestão.
+
+**Bolsista – Observatório Obstétrico Brasileiro (OOBr)**  
+*2022–2023*  
+Análises estatísticas com dados públicos sobre saúde materna. Desenvolvimento de dashboards interativos e elaboração de tutoriais para divulgação de conhecimento estatístico.
+
+**Monitora – UFES**  
+*2023–2024*  
+Auxílio a estudantes nas disciplinas de Probabilidade e Estatística. Suporte na resolução de exercícios, reforço conceitual e aplicação prática com R.
+
+## Eventos & Cursos
+
+**Ministrante – RLadies Vitória** • 2024  
+Organização e condução de oficina introdutória de R para estudantes de Química, com foco em sintaxe básica, manipulação e visualização de dados.
+
+**Apresentação de Pôster – 66ª RBras** • 2022  
+Trabalho sobre efeitos da vacinação em desfechos obstétricos relacionados à COVID-19, utilizando modelos de regressão segmentada para análise temporal.
+
+**Ministrante – Oficina de Ciência de Dados** • 2022  
+Ministrei curso introdutório sobre criação de dashboards interativos para análise de dados em saúde, abordando estrutura de aplicativos e design de interfaces.
+
