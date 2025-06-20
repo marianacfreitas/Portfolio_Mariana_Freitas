@@ -115,6 +115,10 @@ Ao longo da minha formação desenvolvi interesse por ferramentas estatísticas 
 ::: {style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;"}
 <img src="images/python_logo.png" alt="Logo do Python" width="50px"/> <img src="images/github_logo.png" alt="Logo do GitHub" width="50px"/>
 :::
+
+::: {style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;"}
+<img src="images/sas_logo.png" alt="Logo do SAS" width="50px"/>
+:::
 :::
 
 ::: {.column width="50%"}
@@ -178,11 +182,23 @@ Atuei como monitora da disciplina Probabilidade e Estatística para alunos de di
 
 <h3 style="text-align: center; color: white;">
 
-EVENTOS E CURSOS
+EVENTOS E PARTICIPAÇÕES
 
 </h3>
 
 ::: card
+###  **Organização da 69ª Reunião Anual da RBras e 21ª SEAGRO** (2025)
+
+Fiz parte da comissão de organização da 69ª Reunião Anual da RBras e 21ª SEAGRO - um dos maiores eventos na área de estatística, agronomia e ciências ambientais no Brasil.
+
+------------------------------------------------------------------------
+
+###  **Ministrante Ciclo de Seminários Daslab** (2025)
+
+Participei como ministrante do "Ciclo de Seminários Daslab", com uma apresentação sobre *Support Vector Machine* e *Random Machines* em Análise de Sobrevivência, com aplicação em dados oncológicos.
+
+------------------------------------------------------------------------
+
 ### **Ministrante RLadies Vitória** (2024)
 
 Participei como ministrante e organizadora do minicurso "R Básico para Químicos" pelo RLadies Vitória, capítulo da R-Ladies Global - organização que promove a diversidade de gênero na comunidade R.

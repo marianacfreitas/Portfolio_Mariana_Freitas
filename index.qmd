@@ -115,6 +115,10 @@ Throughout my academic journey, I've developed a strong interest in statistical 
 ::: {style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;"}
 <img src="images/python_logo.png" alt="Logo do Python" width="50px"/> <img src="images/github_logo.png" alt="Logo do GitHub" width="50px"/>
 :::
+
+::: {style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;"}
+<img src="images/sas_logo.png" alt="Logo do SAS" width="50px"/>
+:::
 :::
 
 ::: {.column width="50%"}
@@ -178,14 +182,26 @@ Served as a teaching assistant for Probability and Statistics courses for studen
 
 <h3 style="text-align: center; color: white;">
 
-EVENTS AND COURSES
+EVENTS AND LECTURES
 
 </h3>
 
 ::: card
-### **Instructor at RLadies Vitória** (2024)
+### **69th RBras Annual Meeting and 21st SEAGRO Organization** (2025)
 
-Served as instructor and organizer for the "Basic R for Chemists" workshop at RLadies Vitória, a chapter of R-Ladies Global - an organization promoting gender diversity in the R community.
+Part of the organizing commitee of 69th RBras Annual Meeting and 21st SEAGRO - one of the most important scientific events in Brazil in the fields of statistics, agriculture, and environmental sciences.
+
+------------------------------------------------------------------------
+
+### **Lecturer at Daslab** (2025)
+
+Presented a lecture on Support Vector Machines and Random Machines applied to Survival Analysis, including examples on oncological data.
+
+------------------------------------------------------------------------
+
+### **Lecturer at RLadies Vitória** (2024)
+
+Served as lecturer and organizer for the "Basic R for Chemists" workshop at RLadies Vitória, a chapter of R-Ladies Global - an organization promoting gender diversity in the R community.
 
 ------------------------------------------------------------------------
 
@@ -195,7 +211,7 @@ Presented the work "Evaluation of vaccination impacts on COVID-19 data via segme
 
 ------------------------------------------------------------------------
 
-### **Instructor at Data Science Workshop** (2022)
+### **Lecturer at Data Science Workshop** (2022)
 
 Taught the "Introduction to Shiny" course, covering the *shiny* and *shinydashboard* packages for creating interactive dashboards. The course ranged from basic Shiny app structure to building dynamic interfaces for health data visualization, with focus on obstetric data applications.
 :::

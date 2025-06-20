@@ -24,9 +24,9 @@ website:
       - href: "#experiences"
         text: Experiences
       - href: "#events"
-        text: Events and Courses
+        text: Events and Lectures
       - href: productions.qmd
-        text: Productions
+        text: Scientific Production
 
 language:
   pt:
@@ -40,11 +40,11 @@ language:
             - text: "Português"
               href: "/pt/"
         - href: "#sobre"
-          text: SObre
+          text: Sobre
         - href: "#experiencias"  # Corrected from "#experiences" to match content
           text: Experiências
         - href: "#eventos"
-          text: Eventos e Cursos
+          text: Eventos e Participações
         - href: producoes.qmd
           text: Produções
 
