@@ -156,7 +156,7 @@ Development of research in survival analysis applied to oncological data, focusi
 :::
 
 ::: card
-### **Undergraduate Research at FAPES** (2023 - 2025)
+### **Undergraduate Research at Fiotec** (2023 - 2025)
 
 Development of an interactive Shiny/R dashboard with a multidisciplinary team for analyzing maternal-child health indicators in Brazil, using public SUS data. The platform enables dynamic data visualization through interactive charts and tables. The project aimed to support decision-making by healthcare managers and promote transparency in public health information dissemination.
 :::
