@@ -26,15 +26,15 @@ Experience with statistical modeling, survival analysis, and machine learning ap
 
 ## Experience
 
-**Research Fellow – FAPES**  
+**Undergraduate Research – FAPES**  
 *2024–Present*  
 Research on machine learning techniques for survival analysis using oncological data. Focus on support vector machines adapted to censored data and simulation-based model evaluation.
 
-**Fiotec Fellow – OOBr**  
+**Undergraduate Research – OOBr**  
 *2023–2025*  
 Development of an interactive platform for maternal and child health monitoring. Responsible for dashboard implementation, data integration from public sources, and interface design for data-driven decision support.
 
-**Fellow – Brazilian Obstetric Observatory (OOBr)**  
+**Undergraduate Research – Brazilian Obstetric Observatory (OOBr)**  
 *2022–2023*  
 Conducted statistical analyses on maternal health outcomes using public data. Created interactive dashboards and contributed to the development of tutorials for statistical education.
 
@@ -44,12 +44,15 @@ Supported students in understanding core concepts of probability and statistics.
 
 ## Courses & Events
 
-**Instructor – RLadies Vitória** • 2024  
+**Lecturer – Daslab** • 2025  
+Presented a lecture on Support Vector Machines and Random Machines applied to Survival Analysis, including examples on oncological data.
+
+**Lecturer – RLadies Vitória** • 2024  
 Organized and taught an introductory R workshop for Chemistry students, covering basic syntax, manipulation, and visualization.
 
 **Poster Presentation – 66th RBras** • 2022  
 Presented a study on vaccination effects in obstetric COVID-19 outcomes using segmented regression models to evaluate impact over time.
 
-**Instructor – Data Science Workshop** • 2022  
+**Lecturer – Data Science Workshop** • 2022  
 Taught the creation of interactive dashboards for health data analysis. Introduced app structure, reactivity, and design of user interfaces.
 

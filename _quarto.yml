@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Mariana Freitas"
+  favicon: images/site_icon.png
   navbar:
     left:
       - icon: envelope

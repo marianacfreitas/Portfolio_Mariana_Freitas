@@ -150,19 +150,19 @@ EXPERIENCES
 
 ::: card-grid
 ::: card
-### **Research Fellow at FAPES** (2024 - present)
+### **Undergraduate Research at FAPES** (2024 - present)
 
 Development of research in survival analysis applied to oncological data, focusing on colorectal cancer data from the Oncoentro Foundation of São Paulo (FOSP). Implemented Support Vector Machine (SVM) models adapted for censored data, evaluating prognostic factors and predictive performance.
 :::
 
 ::: card
-### **Fiotec Fellow** (2023 - 2025)
+### **Undergraduate Research at FAPES** (2023 - 2025)
 
 Development of an interactive Shiny/R dashboard with a multidisciplinary team for analyzing maternal-child health indicators in Brazil, using public SUS data. The platform enables dynamic data visualization through interactive charts and tables. The project aimed to support decision-making by healthcare managers and promote transparency in public health information dissemination.
 :::
 
 ::: card
-### **Fellow at Brazilian Obstetric Observatory (OOBr)** (2022 - 2023)
+### **Undergraduate Research at Brazilian Obstetric Observatory (OOBr)** (2022 - 2023)
 
 Worked as a fellow at OOBr, handling public data related to maternal health. My responsibilities included statistical analysis of this data, creating interactive dashboards, and information visualization using R. Additionally, I contributed to producing statistical tutorials, helping disseminate knowledge in the field.
 :::
