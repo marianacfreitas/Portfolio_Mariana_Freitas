@@ -120,7 +120,7 @@ body, .quarto-body, .page-wrapper, .content {
 
 <div class="image-block">
   <span class="tag">Tutorial</span>
-  <a href="https://observatorioobstetricobr.org/livro-e-tutoriais/analise-de-concordancia/">
+  <a href="https://observatorioobstetricobr.org/ciencia-de-dados/analise-de-concordancia/">
     <img src="images/concordancia.png" alt="Tutorial: Concordance Analysis" />
   </a>
 </div>
@@ -146,7 +146,7 @@ body, .quarto-body, .page-wrapper, .content {
 
 <div class="image-block">
   <span class="tag">Tutorial</span>
-  <a href="https://observatorioobstetricobr.org/livro-e-tutoriais/distribuicao-amostral/">
+  <a href="https://observatorioobstetricobr.org/ciencia-de-dados/distribuicao-amostral/">
     <img src="images/distribuicao_amostral.png" alt="Tutorial: Sampling Distribution" />
   </a>
 </div>
