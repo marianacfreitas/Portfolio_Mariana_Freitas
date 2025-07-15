@@ -193,6 +193,13 @@ Fiz parte da comissão de organização da 69ª Reunião Anual da RBras e 21ª S
 
 ------------------------------------------------------------------------
 
+### **Pôster na 69ª Reunião Anual da RBras e 21ª SEAGRO** (2025)
+
+Apresentei o trabalho "Machine learning em Análise de Sobrevivência - aplicações em dados oncológicos" na 69ª RBras e 21ª SEAGRO, no trabalho foram abordados *Support Vector Machine* e *Random Machines* adaptados a dados censurados e avaliação do modelo utilizando simulação com aplicação a dados oncológicos.
+
+------------------------------------------------------------------------
+
+
 ###  **Ministrante Ciclo de Seminários Daslab** (2025)
 
 Participei como ministrante do "Ciclo de Seminários Daslab", com uma apresentação sobre *Support Vector Machine* e *Random Machines* em Análise de Sobrevivência, com aplicação em dados oncológicos.

@@ -187,6 +187,12 @@ EVENTS AND LECTURES
 </h3>
 
 ::: card
+
+### **Poster Presentation – 69th RBras Annual Meeting and 21st SEAGRO** (2025)  
+Presentation of a study on Support Vector Machines and Random Machines adapted to censored data, evaluated through simulations and applied to oncological datasets.
+
+------------------------------------------------------------------------
+
 ### **69th RBras Annual Meeting and 21st SEAGRO Organization** (2025)
 
 Part of the organizing commitee of 69th RBras Annual Meeting and 21st SEAGRO - one of the most important scientific events in Brazil in the fields of statistics, agriculture, and environmental sciences.

@@ -7,21 +7,22 @@ fontsize: 10pt
 geometry: margin=1in
 mainfont: Arial
 sansfont: Arial
-linestretch: 1.0
+linestretch: 1.1
 ---
 
 **Mariana Freitas**  
 Undergraduate Student in Statistics – UFES (2022 – Present)  
-[marianacfreitas2004@gmail.com](mailto:marianacfreitas2004@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mariana-freitas-680b712b6/)
+[marianacfreitas2004@gmail.com](mailto:marianacfreitas2004@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/mariana-freitas-680b712b6/)
 
 ## About
 
-Experience with statistical modeling, survival analysis, and machine learning applied to health data. Skilled in R and Python for data analysis, predictive modeling, and development of interactive applications. Focus on public databases, and communication of statistical results through dashboards.
+Experience with survival analysis, machine learning and statistical modeling applied to health data. Skilled in R for data analysis, predictive modeling, and development of interactive applications. Focus on public databases, and communication of statistical results through dashboards.
 
 ## Skills & Languages
 
 **Languages:** Portuguese (native), English (advanced)  
-**Tools:** R, Python, Shiny, LATEX  
+**Tools:** R, Python, Shiny, SAS, LaTeX  
 **Topics:** Data analysis, Visualization, Statistical modeling, Survival analysis, Machine learning, Shiny Dashboards
 
 ## Experience
@@ -30,7 +31,7 @@ Experience with statistical modeling, survival analysis, and machine learning ap
 *2024–Present*  
 Research on machine learning techniques for survival analysis using oncological data. Focus on support vector machines adapted to censored data and simulation-based model evaluation.
 
-**Undergraduate Research – OOBr**  
+**Undergraduate Research – Fiocruz**  
 *2023–2025*  
 Development of an interactive platform for maternal and child health monitoring. Responsible for dashboard implementation, data integration from public sources, and interface design for data-driven decision support.
 
@@ -47,12 +48,17 @@ Supported students in understanding core concepts of probability and statistics.
 **Lecturer – Daslab** • 2025  
 Presented a lecture on Support Vector Machines and Random Machines applied to Survival Analysis, including examples on oncological data.
 
+**Poster Presentation – 69th RBras Annual Meeting and 21st SEAGRO** • 2025  
+Presentation of study on support vector machines adapted to censored data and simulation-based model evaluation with oncological data applications.
+
+**69th RBras Annual Meeting and 21st SEAGRO Organization** • 2025  
+Part of the organizing committee of 69th RBras Annual Meeting and 21st SEAGRO – one of the most important scientific events in Brazil in the fields of statistics, agriculture, and environmental sciences.
+
 **Lecturer – RLadies Vitória** • 2024  
 Organized and taught an introductory R workshop for Chemistry students, covering basic syntax, manipulation, and visualization.
 
+**Lecturer – Data Science Workshop** • 2022  
+Taught the creation of interactive dashboards for health data analysis using R library Shiny. Introduced app structure, reactivity, and design of user interfaces.
+
 **Poster Presentation – 66th RBras** • 2022  
 Presented a study on vaccination effects in obstetric COVID-19 outcomes using segmented regression models to evaluate impact over time.
-
-**Lecturer – Data Science Workshop** • 2022  
-Taught the creation of interactive dashboards for health data analysis. Introduced app structure, reactivity, and design of user interfaces.
-

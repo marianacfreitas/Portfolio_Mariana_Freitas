@@ -7,7 +7,7 @@ fontsize: 10pt
 geometry: margin=1in
 mainfont: Arial
 sansfont: Arial
-linestretch: 1.0
+linestretch: 1.1
 ---
 
 **Mariana Freitas**  
@@ -16,12 +16,12 @@ Graduanda em Estatística – UFES (2022 – Atual)
 
 ## Sobre
 
-Experiência com modelagem estatística, análise de sobrevivência e aprendizado de máquina aplicados à área da saúde. Domínio de R e Python para análise de dados, modelagem preditiva e desenvolvimento de aplicações interativas. Atuação com bancos de dados públicos, foco comunicação de resultados por meio de dashboards.
+Experiência com modelagem estatística, análise de sobrevivência e aprendizado de máquina aplicados à área da saúde. Domínio de R e Python para análise de dados, modelagem preditiva e desenvolvimento de aplicações interativas. Atuação com bancos de dados públicos, foco na comunicação de resultados por meio de dashboards.
 
 ## Habilidades & Idiomas
 
 **Idiomas:** Português (nativo), Inglês (avançado)  
-**Ferramentas:** R, Python, Shiny, LaTeX  
+**Ferramentas:** R, Python, Shiny, SAS, LaTeX  
 **Tópicos:** Análise de dados, Visualização, Modelagem estatística, Análise de sobrevivência, Aprendizado de máquina, Shiny Dashboards
 
 ## Experiências
@@ -44,6 +44,15 @@ Auxílio a estudantes nas disciplinas de Probabilidade e Estatística. Suporte n
 
 ## Eventos & Cursos
 
+**Ministrante – Ciclo de Seminários Daslab** • 2025  
+Seminário sobre *Support Vector Machines* e *Random Machines* aplicados à análise de sobrevivência, com exemplos em dados oncológicos.
+
+**Apresentação de Pôster – 69ª RBras e 21ª SEAGRO** • 2025  
+Trabalho sobre *Support Vector Machines* e *Random Machines* adaptados a dados censurados e avaliação de modelo baseada em simulação com aplicação a dados oncológicos.
+
+**Organização da 69ª RBras e 21ª SEAGRO** • 2025  
+Parte do comitê de organização da 69ª RBras e 21ª SEAGRO.
+
 **Ministrante – RLadies Vitória** • 2024  
 Organização e condução de oficina introdutória de R para estudantes de Química, com foco em sintaxe básica, manipulação e visualização de dados.
 
@@ -52,4 +61,3 @@ Trabalho sobre efeitos da vacinação em desfechos obstétricos relacionados à 
 
 **Ministrante – Oficina de Ciência de Dados** • 2022  
 Ministrei curso introdutório sobre criação de dashboards interativos para análise de dados em saúde, abordando estrutura de aplicativos e design de interfaces.
-
